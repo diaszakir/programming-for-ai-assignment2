@@ -1,0 +1,495 @@
+id,date,district,residency,address,area,rooms,floor,total_floors,price,year,distance,renovation,property,balcony,seller,price_per_m2,floor_category,building_age,area_category,price_category,room_area_ratio
+APT-0358,2025-01-01,Yesil,Expo Residence,"Turan Ave, 149",83.9,3,11,21,41.65,2016,6.5,rough finish,apartment,balcony,agency,0.49642431466030984,middle,10,large,cheap,27.97
+APT-0492,2025-01-01,Baikonur,,"Dostyk St, 43",140.0,5,18,21,67.56,2013,4.4,euro renovation,apartment,none,developer,0.4825714285714286,middle,13,very_large,cheap,28.0
+APT-0274,2025-01-02,Saryarka,Arman,"Syganak St, 139",99.1,4,5,5,38.6,2017,9.0,rough finish,apartment,2 balconies,agency,0.38950554994954595,last,9,very_large,cheap,24.78
+APT-0186,2025-01-03,Yesil,GreenLine,"Uly Dala Ave, 131",56.3,2,6,9,32.97,1995,3.8,rough finish,apartment,unknown,developer,0.5856127886323268,middle,31,medium,mid,28.15
+APT-0377,2025-01-04,Baikonur,Baikonur Residence,"Qoshqarbayev Ave, 58",36.6,1,14,24,15.0,2010,11.6,euro renovation,apartment,unknown,developer,0.4098360655737705,middle,16,small,cheap,36.6
+APT-0282,2025-01-05,Yesil,Sezim Qala,"Bogenbay Batyr Ave, 148",80.4,4,12,18,62.3,2002,3.6,designer,apartment,unknown,owner,0.7748756218905472,middle,24,large,expensive,20.1
+APT-0078,2025-01-07,Nura,Comfort Town,"Abay Ave, 90",135.5,4,5,5,68.46,2002,4.2,cosmetic,apartment,unknown,developer,0.505239852398524,last,24,very_large,mid,33.88
+APT-0222,2025-01-08,Almaty,Sat City,"Syganak St, 27",78.8,3,12,21,47.26,2008,2.8,,apartment,unknown,agency,0.599746192893401,middle,18,large,mid,26.27
+APT-0496,2025-01-09,Yesil,Nova City,"Bogenbay Batyr Ave, 46",81.1,2,22,24,50.67,1992,4.5,euro renovation,studio,none,agency,0.6247842170160297,middle,34,large,expensive,40.55
+APT-0474,2025-01-11,Saryarka,Zhana Saryarka,"Tauelsizdik Ave, 38",93.0,3,15,21,49.37,2018,9.4,good,apartment,unknown,owner,0.5308602150537635,middle,8,very_large,mid,31.0
+APT-0406,2025-01-13,Baikonur,Keruen,"Bogenbay Batyr Ave, 96",42.0,2,3,5,21.67,2010,8.5,euro renovation,apartment,loggia,owner,0.5159523809523809,middle,16,small,mid,21.0
+APT-0251,2025-01-14,Nura,Comfort Town,"Qoshqarbayev Ave, 14",67.3,2,4,5,39.89,2009,7.3,euro renovation,apartment,unknown,owner,0.5927191679049034,middle,17,medium,mid,33.65
+APT-0146,2025-01-17,Nura,Orynbor Towers,"Dostyk St, 125",46.9,1,12,24,28.39,1988,8.9,euro renovation,apartment,unknown,agency,0.6053304904051173,middle,38,small,mid,46.9
+APT-0315,2025-01-17,Nura,Capital Park,"Saryarka Ave, 153",39.0,2,15,18,18.99,2013,11.7,rough finish,apartment,unknown,developer,0.4869230769230769,middle,13,small,cheap,19.5
+APT-0273,2025-01-17,Nura,Orynbor Towers,"Turan Ave, 28",72.3,3,15,18,46.38,2023,8.7,cosmetic,apartment,unknown,agency,0.64149377593361,middle,3,large,expensive,24.1
+APT-0301,2025-01-23,Nura,,"Mangilik El Ave, 137",52.2,1,9,24,37.03,2024,7.8,good,apartment,unknown,developer,0.7093869731800766,middle,2,medium,expensive,52.2
+APT-0323,2025-01-24,Yesil,Nova City,"Tauelsizdik Ave, 121",83.0,3,5,9,62.26,1985,4.4,euro renovation,apartment,unknown,owner,0.7501204819277109,middle,41,large,expensive,27.67
+APT-0249,2025-01-26,Almaty,Highvill,"Qoshqarbayev Ave, 28",83.4,3,18,21,40.07,2003,7.1,good,apartment,2 balconies,owner,0.4804556354916067,middle,23,large,cheap,27.8
+APT-0295,2025-01-27,Yesil,Sezim Qala,"Qoshqarbayev Ave, 14",42.9,1,2,7,26.13,1995,4.8,rough finish,penthouse,2 balconies,agency,0.6090909090909091,middle,31,small,mid,42.9
+APT-0366,2025-01-28,Almaty,,"Dostyk St, 75",36.5,1,9,16,15.99,1988,5.4,good,apartment,unknown,agency,0.4380821917808219,middle,38,small,cheap,36.5
+APT-0352,2025-01-30,Almaty,Sat City,"Mangilik El Ave, 34",84.7,2,3,12,50.69,1989,3.2,designer,apartment,unknown,developer,0.5984651711924439,middle,37,large,mid,42.35
+APT-0265,2025-02-01,Baikonur,,"Qoshqarbayev Ave, 162",37.7,1,5,12,20.57,2025,8.5,rough finish,apartment,2 balconies,agency,0.5456233421750663,middle,1,small,mid,37.7
+APT-0219,2025-02-01,Nura,Orynbor Towers,"Dostyk St, 32",108.1,4,7,18,74.71,2002,6.9,good,apartment,unknown,owner,0.6911193339500462,middle,24,very_large,expensive,27.02
+APT-0390,2025-02-02,Nura,Arena City,"Abay Ave, 33",90.9,4,8,9,62.88,1997,9.1,designer,apartment,none,owner,0.6917491749174918,middle,29,very_large,expensive,22.72
+APT-0148,2025-02-02,Almaty,Grand Alatau,"Dostyk St, 21",50.2,2,15,21,36.81,2021,2.7,euro renovation,apartment,none,owner,0.7332669322709163,middle,5,medium,expensive,25.1
+APT-0302,2025-02-02,Nura,Orynbor Towers,"Abay Ave, 119",80.3,3,1,9,51.84,2016,5.7,good,apartment,loggia,owner,0.6455790784557909,first,10,large,expensive,26.77
+APT-0287,2025-02-03,Baikonur,Orken,"Tauelsizdik Ave, 139",56.2,4,13,16,19.92,1999,10.8,,apartment,unknown,owner,0.35444839857651245,middle,27,medium,cheap,14.05
+APT-0095,2025-02-09,Saryarka,Arai,"Turan Ave, 36",33.2,1,3,7,18.95,1999,3.2,designer,apartment,unknown,developer,0.5707831325301204,middle,27,small,mid,33.2
+APT-0253,2025-02-10,Baikonur,Keruen,"Tauelsizdik Ave, 40",51.4,1,5,16,17.88,1995,9.3,cosmetic,apartment,balcony,developer,0.3478599221789883,middle,31,medium,cheap,51.4
+APT-0064,2025-02-10,Almaty,Millennium Park,"Dostyk St, 25",85.6,3,11,12,59.26,1997,5.3,,apartment,loggia,agency,0.6922897196261683,middle,29,large,expensive,28.53
+APT-0022,2025-02-12,Saryarka,Arman,"Bogenbay Batyr Ave, 33",80.0,3,6,7,37.53,1994,7.4,euro renovation,studio,unknown,owner,0.469125,middle,32,large,cheap,26.67
+APT-0213,2025-02-13,Yesil,Expo Residence,"Uly Dala Ave, 33",81.4,2,2,9,62.62,2013,3.2,designer,apartment,2 balconies,owner,0.7692874692874692,middle,13,large,expensive,40.7
+APT-0304,2025-02-13,Yesil,,"Turan Ave, 162",41.5,1,8,12,26.88,2007,6.8,good,apartment,none,owner,0.6477108433734939,middle,19,small,expensive,41.5
+APT-0381,2025-02-16,Yesil,GreenLine,"Tauelsizdik Ave, 159",33.7,1,4,9,19.27,1989,2.3,cosmetic,apartment,balcony,agency,0.5718100890207715,middle,37,small,mid,33.7
+APT-0487,2025-02-16,Baikonur,Keruen,"Bogenbay Batyr Ave, 151",62.9,1,12,12,33.09,2022,8.0,euro renovation,apartment,2 balconies,developer,0.526073131955485,last,4,medium,mid,62.9
+APT-0137,2025-02-19,Yesil,Sezim Qala,"Syganak St, 173",33.1,1,2,5,20.56,1998,2.5,good,apartment,balcony,agency,0.6211480362537763,middle,28,small,mid,33.1
+APT-0483,2025-02-19,Almaty,Millennium Park,"Syganak St, 108",41.3,1,10,18,31.75,2003,4.4,euro renovation,apartment,unknown,developer,0.7687651331719129,middle,23,small,expensive,41.3
+APT-0232,2025-02-19,Nura,Comfort Town,"Qoshqarbayev Ave, 160",56.1,1,3,7,36.93,2026,10.3,good,apartment,unknown,agency,0.658288770053476,middle,0,medium,expensive,56.1
+APT-0220,2025-02-20,Nura,,"Mangilik El Ave, 99",135.5,5,6,18,71.18,2001,10.0,euro renovation,apartment,unknown,developer,0.5253136531365314,middle,25,very_large,mid,27.1
+APT-0151,2025-02-24,Baikonur,Baikonur Residence,"Qoshqarbayev Ave, 89",78.6,4,13,18,36.82,1993,11.1,,apartment,unknown,agency,0.4684478371501273,middle,33,large,cheap,19.65
+APT-0380,2025-02-27,Baikonur,Baikonur Residence,"Mangilik El Ave, 87",25.7,1,16,16,15.0,2019,12.7,euro renovation,apartment,unknown,agency,0.5836575875486382,last,7,small,mid,25.7
+APT-0172,2025-03-02,Baikonur,Baikonur Residence,"Turan Ave, 106",62.75,2,10,18,32.1,2008,9.2,designer,apartment,unknown,developer,0.5115537848605578,middle,18,medium,mid,31.38
+APT-0047,2025-03-03,Baikonur,Orken,"Saryarka Ave, 146",59.8,3,9,12,22.64,2009,8.1,good,apartment,none,developer,0.37859531772575256,middle,17,medium,cheap,19.93
+APT-0049,2025-03-03,Saryarka,Arai,"Turan Ave, 19",41.3,1,7,12,21.08,1992,7.4,euro renovation,apartment,unknown,agency,0.5104116222760291,middle,34,small,mid,41.3
+APT-0076,2025-03-03,Almaty,,"Turan Ave, 143",126.2,5,7,7,55.84,1990,1.7,rough finish,apartment,loggia,agency,0.44247226624405706,last,36,very_large,cheap,25.24
+APT-0324,2025-03-03,Nura,Capital Park,"Saryarka Ave, 44",82.0,3,1,9,48.77,2009,8.7,euro renovation,apartment,unknown,owner,0.5947560975609757,first,17,large,mid,27.33
+APT-0087,2025-03-05,Saryarka,Dostyk House,"Qoshqarbayev Ave, 39",107.1,3,4,5,51.97,2021,8.2,good,apartment,2 balconies,owner,0.48524743230625583,middle,5,very_large,cheap,35.7
+APT-0480,2025-03-05,Nura,Orynbor Towers,"Kabanbay Batyr Ave, 24",34.2,1,15,18,20.02,1991,5.2,good,apartment,unknown,developer,0.5853801169590642,middle,35,small,mid,34.2
+APT-0397,2025-03-06,Saryarka,Dostyk House,"Saryarka Ave, 14",82.5,3,12,12,36.57,1999,5.6,designer,apartment,unknown,owner,0.44327272727272726,last,27,large,cheap,27.5
+APT-0107,2025-03-09,Nura,Arena City,"Syganak St, 23",109.7,4,18,18,88.01,2021,7.0,euro renovation,apartment,unknown,owner,0.8022789425706472,last,5,very_large,expensive,27.42
+APT-0183,2025-03-09,Baikonur,Keruen,"Bogenbay Batyr Ave, 151",64.4,2,5,7,21.14,1998,12.8,cosmetic,apartment,loggia,agency,0.3282608695652174,middle,28,medium,cheap,32.2
+APT-0059,2025-03-12,Almaty,Sat City,"Qoshqarbayev Ave, 10",53.9,2,18,18,28.27,2009,7.7,euro renovation,studio,unknown,agency,0.5244897959183673,last,17,medium,mid,26.95
+APT-0039,2025-03-12,Baikonur,Orken,"Dostyk St, 95",76.8,3,4,16,32.89,2004,11.0,good,apartment,unknown,owner,0.42825520833333336,middle,22,large,cheap,25.6
+APT-0003,2025-03-13,Almaty,Grand Alatau,"Syganak St, 50",105.2,4,3,21,67.35,2004,3.1,euro renovation,apartment,unknown,agency,0.6402091254752851,middle,22,very_large,expensive,26.3
+APT-0004,2025-03-15,Yesil,Nova City,"Kerey-Zhanibek St, 175",119.8,4,21,24,83.52,2008,3.1,good,apartment,unknown,agency,0.6971619365609348,middle,18,very_large,expensive,29.95
+APT-0241,2025-03-18,Nura,,"Tauelsizdik Ave, 43",58.1,4,1,5,34.77,2026,11.5,good,apartment,unknown,owner,0.5984509466437178,first,0,medium,mid,14.52
+APT-0145,2025-03-18,Saryarka,Zhana Saryarka,"Qoshqarbayev Ave, 9",59.6,2,9,9,34.03,2016,4.5,designer,apartment,none,agency,0.5709731543624161,last,10,medium,mid,29.8
+APT-0173,2025-03-19,Nura,Orynbor Towers,"Bogenbay Batyr Ave, 116",54.7,2,16,21,23.82,1994,8.6,cosmetic,apartment,unknown,owner,0.43546617915904934,middle,32,medium,cheap,27.35
+APT-0086,2025-03-20,Saryarka,Zhana Saryarka,"Abay Ave, 74",88.1,3,17,18,31.65,1989,5.5,good,apartment,unknown,agency,0.35925085130533485,middle,37,large,cheap,29.37
+APT-0364,2025-03-22,Saryarka,Arai,"Tauelsizdik Ave, 133",95.9,3,2,7,57.58,2018,10.9,designer,apartment,none,owner,0.6004171011470281,middle,8,very_large,mid,31.97
+APT-0459,2025-03-23,Yesil,Nova City,"Tauelsizdik Ave, 112",81.7,2,8,9,57.39,2018,6.4,good,penthouse,unknown,owner,0.7024479804161566,middle,8,large,expensive,40.85
+APT-0405,2025-03-27,Nura,,"Uly Dala Ave, 6",64.9,2,10,12,50.85,2018,5.8,designer,studio,unknown,agency,0.783513097072419,middle,8,medium,expensive,32.45
+APT-0398,2025-03-31,Baikonur,,"Uly Dala Ave, 118",102.1,4,15,16,48.46,2024,7.3,euro renovation,apartment,unknown,owner,0.4746327130264447,middle,2,very_large,cheap,25.52
+APT-0154,2025-04-02,Almaty,Sat City,"Kabanbay Batyr Ave, 7",61.5,2,2,7,36.12,2012,4.1,good,apartment,unknown,agency,0.5873170731707317,middle,14,medium,mid,30.75
+APT-0359,2025-04-02,Almaty,Sat City,"Kerey-Zhanibek St, 89",52.8,2,10,18,33.65,2021,6.6,euro renovation,apartment,none,agency,0.6373106060606061,middle,5,medium,expensive,26.4
+APT-0066,2025-04-03,Saryarka,,"Qoshqarbayev Ave, 94",123.7,5,4,7,81.9,1989,4.1,,apartment,2 balconies,owner,0.6620856911883589,middle,37,very_large,expensive,24.74
+APT-0372,2025-04-05,Yesil,,"Mangilik El Ave, 159",46.6,1,12,24,28.83,1999,7.1,cosmetic,apartment,unknown,developer,0.6186695278969957,middle,27,small,mid,46.6
+APT-0453,2025-04-06,Saryarka,Arman,"Kabanbay Batyr Ave, 90",30.3,1,15,24,19.37,2016,3.9,euro renovation,apartment,balcony,developer,0.6392739273927392,middle,10,small,expensive,30.3
+APT-0075,2025-04-08,Yesil,,"Bogenbay Batyr Ave, 107",127.8,4,7,12,95.52,2013,8.2,good,apartment,unknown,owner,0.7474178403755869,middle,13,very_large,expensive,31.95
+APT-0291,2025-04-09,Baikonur,Samal,"Saryarka Ave, 122",54.5,2,2,16,27.49,2010,4.9,cosmetic,apartment,2 balconies,agency,0.5044036697247706,middle,16,medium,mid,27.25
+APT-0211,2025-04-10,Almaty,Highvill,"Turan Ave, 179",94.7,4,15,16,69.73,2014,2.8,,apartment,unknown,agency,0.7363252375923971,middle,12,very_large,expensive,23.68
+APT-0357,2025-04-10,Almaty,Sat City,"Abay Ave, 143",84.0,3,6,7,51.98,2021,6.9,rough finish,studio,2 balconies,owner,0.6188095238095238,middle,5,large,mid,28.0
+APT-0349,2025-04-11,Nura,Comfort Town,"Abay Ave, 37",104.2,4,17,24,74.4,1994,5.5,designer,apartment,balcony,owner,0.7140115163147793,middle,32,very_large,expensive,26.05
+APT-0430,2025-04-11,Baikonur,Orken,"Abay Ave, 147",58.5,2,19,24,17.64,1986,12.9,good,apartment,2 balconies,owner,0.30153846153846153,middle,40,medium,cheap,29.25
+APT-0418,2025-04-12,Baikonur,Samal,"Qoshqarbayev Ave, 2",55.2,2,5,5,24.7,1998,10.4,designer,apartment,unknown,developer,0.447463768115942,last,28,medium,cheap,27.6
+APT-0233,2025-04-14,Yesil,,"Saryarka Ave, 108",51.7,1,5,7,34.71,2001,5.3,cosmetic,apartment,unknown,agency,0.6713733075435203,middle,25,medium,expensive,51.7
+APT-0250,2025-04-15,Nura,Capital Park,"Abay Ave, 116",69.9,2,5,16,24.49,1988,9.5,cosmetic,apartment,balcony,agency,0.35035765379113015,middle,38,large,cheap,34.95
+APT-0268,2025-04-16,Yesil,GreenLine,"Dostyk St, 83",63.1,2,13,18,53.83,2015,8.4,designer,apartment,loggia,agency,0.8530903328050713,middle,11,medium,expensive,31.55
+APT-0230,2025-04-16,Almaty,Grand Alatau,"Saryarka Ave, 34",161.2,5,1,12,69.25,2004,5.4,cosmetic,apartment,2 balconies,agency,0.429590570719603,first,22,very_large,cheap,32.24
+APT-0471,2025-04-19,Almaty,Sat City,"Tauelsizdik Ave, 29",84.6,3,9,9,51.58,2023,5.7,,apartment,none,agency,0.6096926713947991,last,3,large,mid,28.2
+APT-0375,2025-04-19,Nura,Orynbor Towers,"Uly Dala Ave, 158",28.9,2,6,21,19.15,2026,7.9,cosmetic,apartment,2 balconies,agency,0.6626297577854671,middle,0,small,expensive,14.45
+APT-0020,2025-04-20,Yesil,Expo Residence,"Saryarka Ave, 30",100.8,4,1,16,84.06,2020,4.1,euro renovation,apartment,unknown,owner,0.8339285714285715,first,6,very_large,expensive,25.2
+APT-0330,2025-04-20,Nura,Comfort Town,"Turan Ave, 49",85.2,3,14,21,50.98,2004,7.5,designer,apartment,balcony,owner,0.598356807511737,middle,22,large,mid,28.4
+APT-0163,2025-04-22,Baikonur,Baikonur Residence,"Mangilik El Ave, 88",46.1,2,11,24,19.82,1989,6.7,euro renovation,apartment,unknown,developer,0.4299349240780911,middle,37,small,cheap,23.05
+APT-0335,2025-04-26,Almaty,Highvill,"Kerey-Zhanibek St, 129",44.0,2,5,5,27.46,1994,4.2,euro renovation,studio,unknown,agency,0.6240909090909091,last,32,small,expensive,22.0
+APT-0054,2025-04-27,Almaty,Sat City,"Kabanbay Batyr Ave, 58",58.7,2,12,12,26.86,1995,3.2,rough finish,apartment,unknown,developer,0.45758091993185684,last,31,medium,cheap,29.35
+APT-0404,2025-04-30,Baikonur,,"Dostyk St, 142",89.9,3,11,24,31.87,1992,10.6,designer,apartment,unknown,owner,0.35450500556173525,middle,34,large,cheap,29.97
+APT-0135,2025-05-02,Saryarka,Arman,"Dostyk St, 90",72.9,2,13,21,28.81,1990,8.5,euro renovation,apartment,unknown,developer,0.39519890260630997,middle,36,large,cheap,36.45
+APT-0482,2025-05-02,Saryarka,Arman,"Qoshqarbayev Ave, 95",35.3,1,6,7,15.0,1998,6.6,rough finish,apartment,unknown,owner,0.42492917847025496,middle,28,small,cheap,35.3
+APT-0470,2025-05-04,Yesil,GreenLine,"Syganak St, 59",59.6,2,9,9,40.28,2012,7.6,,penthouse,balcony,agency,0.6758389261744967,last,14,medium,expensive,29.8
+APT-0179,2025-05-07,Nura,Capital Park,"Kabanbay Batyr Ave, 36",57.6,2,7,9,35.93,2024,9.5,euro renovation,apartment,2 balconies,owner,0.6237847222222223,middle,2,medium,mid,28.8
+APT-0091,2025-05-15,Nura,Capital Park,"Dostyk St, 87",61.9,2,3,9,35.84,1989,6.4,euro renovation,apartment,unknown,owner,0.5789983844911147,middle,37,medium,mid,30.95
+APT-0353,2025-05-15,Saryarka,Zhana Saryarka,"Tauelsizdik Ave, 146",35.3,1,20,24,18.97,2007,5.5,euro renovation,studio,none,agency,0.5373937677053825,middle,19,small,mid,35.3
+APT-0248,2025-05-16,Saryarka,Arai,"Dostyk St, 89",96.5,3,18,18,47.65,2025,4.7,cosmetic,apartment,unknown,agency,0.4937823834196891,last,1,very_large,cheap,32.17
+APT-0341,2025-05-18,Almaty,Highvill,"Saryarka Ave, 121",149.1,5,13,18,88.28,1989,6.3,euro renovation,apartment,none,agency,0.5920858484238766,middle,37,very_large,mid,29.82
+APT-0068,2025-05-19,Saryarka,Zhana Saryarka,"Uly Dala Ave, 138",102.1,4,1,9,49.46,1987,5.4,good,apartment,2 balconies,agency,0.4844270323212537,first,39,very_large,cheap,25.52
+APT-0443,2025-05-20,Nura,,"Dostyk St, 114",67.1,3,15,18,37.87,1986,10.1,euro renovation,apartment,unknown,owner,0.564381520119225,middle,40,medium,mid,22.37
+APT-0184,2025-05-21,Nura,,"Kabanbay Batyr Ave, 4",53.0,1,20,24,41.26,2023,4.4,euro renovation,studio,unknown,owner,0.7784905660377358,middle,3,medium,expensive,53.0
+APT-0093,2025-05-22,Nura,Arena City,"Uly Dala Ave, 155",99.2,2,10,24,56.92,2009,8.0,good,apartment,loggia,owner,0.5737903225806451,middle,17,very_large,mid,49.6
+APT-0396,2025-05-22,Almaty,Highvill,"Qoshqarbayev Ave, 53",121.2,4,3,5,81.33,2008,2.2,good,apartment,unknown,owner,0.671039603960396,middle,18,very_large,expensive,30.3
+APT-0407,2025-05-23,Saryarka,Dostyk House,"Kerey-Zhanibek St, 107",102.1,4,24,24,64.2,2011,9.4,cosmetic,apartment,unknown,owner,0.6287952987267386,last,15,very_large,expensive,25.52
+APT-0171,2025-05-23,Saryarka,Dostyk House,"Turan Ave, 158",102.1,4,12,12,89.84,2022,8.5,designer,apartment,unknown,agency,0.8799216454456417,last,4,very_large,expensive,25.52
+APT-0159,2025-05-23,Baikonur,,"Dostyk St, 128",37.9,1,8,12,15.0,2003,11.5,rough finish,apartment,loggia,owner,0.395778364116095,middle,23,small,cheap,37.9
+APT-0415,2025-05-26,Saryarka,Arman,"Turan Ave, 178",83.0,4,6,18,41.8,2004,3.2,euro renovation,apartment,balcony,owner,0.5036144578313253,middle,22,large,mid,20.75
+APT-0061,2025-05-27,Baikonur,Samal,"Tauelsizdik Ave, 150",57.3,2,2,9,25.84,2024,11.8,euro renovation,apartment,unknown,agency,0.4509598603839442,middle,2,medium,cheap,28.65
+APT-0178,2025-05-27,Nura,Orynbor Towers,"Turan Ave, 165",61.8,2,1,7,38.21,2005,6.9,cosmetic,apartment,none,agency,0.618284789644013,first,21,medium,mid,30.9
+APT-0084,2025-06-01,Almaty,Grand Alatau,"Kerey-Zhanibek St, 166",42.9,1,5,7,28.36,2017,2.4,euro renovation,apartment,unknown,owner,0.6610722610722611,middle,9,small,expensive,42.9
+APT-0147,2025-06-02,Yesil,GreenLine,"Kabanbay Batyr Ave, 135",55.0,2,5,5,50.63,2012,7.6,designer,apartment,balcony,owner,0.9205454545454546,last,14,medium,expensive,27.5
+APT-0117,2025-06-02,Almaty,Sat City,"Qoshqarbayev Ave, 117",88.0,3,1,5,54.57,1987,4.300000000000001,good,apartment,unknown,owner,0.6201136363636364,first,39,large,mid,29.33
+APT-0132,2025-06-03,Baikonur,,"Syganak St, 138",125.1,4,3,18,74.68,2021,5.0,euro renovation,apartment,unknown,owner,0.5969624300559553,middle,5,very_large,mid,31.28
+APT-0434,2025-06-04,Saryarka,Dostyk House,"Turan Ave, 62",44.5,2,19,21,20.88,2025,6.9,cosmetic,apartment,loggia,agency,0.46921348314606737,middle,1,small,cheap,22.25
+APT-0472,2025-06-07,Yesil,Sezim Qala,"Kerey-Zhanibek St, 26",48.0,1,6,18,34.23,2003,7.0,euro renovation,apartment,unknown,owner,0.7131249999999999,middle,23,small,expensive,48.0
+APT-0306,2025-06-07,Saryarka,Zhana Saryarka,"Mangilik El Ave, 92",97.4,3,3,12,65.02,2016,3.7,euro renovation,apartment,unknown,owner,0.6675564681724845,middle,10,very_large,expensive,32.47
+APT-0175,2025-06-11,Almaty,Sat City,"Mangilik El Ave, 32",102.1,4,11,24,65.0,1988,4.300000000000001,euro renovation,penthouse,unknown,agency,0.6366307541625857,middle,38,very_large,expensive,25.52
+APT-0477,2025-06-13,Baikonur,Keruen,"Qoshqarbayev Ave, 88",57.4,2,9,9,18.26,2019,6.6,rough finish,apartment,none,owner,0.31811846689895473,last,7,medium,cheap,28.7
+APT-0199,2025-06-13,Saryarka,Arai,"Syganak St, 60",79.6,2,3,5,30.73,1988,9.5,good,apartment,unknown,owner,0.38605527638190956,middle,38,large,cheap,39.8
+APT-0413,2025-06-16,Almaty,Sat City,"Bogenbay Batyr Ave, 88",56.7,2,5,18,26.31,1985,2.0,cosmetic,apartment,unknown,owner,0.464021164021164,middle,41,medium,cheap,28.35
+APT-0452,2025-06-17,Nura,Capital Park,"Tauelsizdik Ave, 67",102.1,3,2,24,56.89,1997,5.2,cosmetic,penthouse,unknown,agency,0.5571988246816847,middle,29,very_large,mid,34.03
+APT-0176,2025-06-19,Saryarka,Zhana Saryarka,"Abay Ave, 171",39.6,1,6,16,18.21,2002,3.7,good,apartment,unknown,owner,0.45984848484848484,middle,24,small,cheap,39.6
+APT-0347,2025-06-19,Baikonur,Orken,"Dostyk St, 137",92.3,3,3,18,23.35,1994,6.5,,apartment,unknown,owner,0.252979414951246,middle,32,very_large,cheap,30.77
+APT-0464,2025-06-20,Nura,,"Mangilik El Ave, 30",43.6,2,2,12,21.03,2004,10.2,cosmetic,apartment,unknown,agency,0.48233944954128444,middle,22,small,cheap,21.8
+APT-0155,2025-06-23,Almaty,Millennium Park,"Dostyk St, 98",126.5,4,6,7,90.26,2020,7.3,,apartment,unknown,owner,0.7135177865612649,middle,6,very_large,expensive,31.62
+APT-0207,2025-06-24,Baikonur,Baikonur Residence,"Kabanbay Batyr Ave, 88",78.3,3,7,7,27.25,1987,6.7,good,apartment,2 balconies,owner,0.3480204342273308,last,39,large,cheap,26.1
+APT-0221,2025-06-27,Nura,Capital Park,"Tauelsizdik Ave, 34",91.7,4,14,16,63.19,2017,4.2,euro renovation,apartment,none,owner,0.6890948745910578,middle,9,very_large,expensive,22.92
+APT-0383,2025-06-27,Almaty,Millennium Park,"Mangilik El Ave, 152",134.9,4,4,18,86.56,2021,4.8,good,apartment,unknown,owner,0.6416604892512973,middle,5,very_large,expensive,33.72
+APT-0385,2025-06-28,Yesil,Sezim Qala,"Bogenbay Batyr Ave, 62",71.1,3,23,24,48.91,1993,3.4,euro renovation,apartment,none,agency,0.6879043600562588,middle,33,large,expensive,23.7
+APT-0106,2025-06-28,Nura,Comfort Town,"Turan Ave, 180",100.7,4,12,18,54.51,1989,8.4,cosmetic,apartment,unknown,agency,0.5413108242303872,middle,37,very_large,mid,25.18
+APT-0126,2025-06-30,Almaty,Highvill,"Turan Ave, 107",42.4,2,6,7,25.74,2021,2.6,euro renovation,apartment,unknown,developer,0.6070754716981132,middle,5,small,mid,21.2
+APT-0436,2025-06-30,Saryarka,Arai,"Dostyk St, 141",75.6,2,2,5,27.74,1995,5.2,,apartment,none,developer,0.36693121693121694,middle,31,large,cheap,37.8
+APT-0290,2025-06-30,Nura,Arena City,"Tauelsizdik Ave, 3",102.1,4,13,21,63.72,1997,5.2,designer,penthouse,unknown,agency,0.6240940254652302,middle,29,very_large,expensive,25.52
+APT-0228,2025-07-01,Nura,,"Tauelsizdik Ave, 86",90.5,2,5,24,48.63,2005,10.9,cosmetic,apartment,unknown,agency,0.5373480662983425,middle,21,large,mid,45.25
+APT-0252,2025-07-01,Saryarka,Arman,"Saryarka Ave, 115",131.9,4,18,18,74.28,2023,4.6,euro renovation,apartment,none,owner,0.5631539044730857,last,3,very_large,mid,32.98
+APT-0023,2025-07-01,Yesil,,"Uly Dala Ave, 42",111.4,4,3,7,84.64,2020,8.2,good,apartment,unknown,owner,0.7597845601436265,middle,6,very_large,expensive,27.85
+APT-0371,2025-07-04,Almaty,Millennium Park,"Qoshqarbayev Ave, 87",60.3,2,15,21,34.47,2000,4.300000000000001,good,apartment,unknown,agency,0.5716417910447761,middle,26,medium,mid,30.15
+APT-0099,2025-07-06,Yesil,,"Kerey-Zhanibek St, 123",80.7,3,3,5,59.98,2019,4.4,euro renovation,apartment,unknown,owner,0.7432465923172242,middle,7,large,expensive,26.9
+APT-0488,2025-07-07,Saryarka,Arman,"Saryarka Ave, 37",56.5,1,9,21,21.12,1990,3.9,rough finish,apartment,loggia,agency,0.3738053097345133,middle,36,medium,cheap,56.5
+APT-0354,2025-07-07,Saryarka,Arai,"Abay Ave, 101",35.6,1,16,24,15.57,2005,10.6,cosmetic,apartment,loggia,agency,0.43735955056179776,middle,21,small,cheap,35.6
+APT-0237,2025-07-07,Yesil,GreenLine,"Abay Ave, 88",53.2,1,12,18,36.89,2013,5.0,cosmetic,studio,none,owner,0.6934210526315789,middle,13,medium,expensive,53.2
+APT-0014,2025-07-07,Yesil,,"Turan Ave, 109",89.2,3,11,21,56.11,1991,3.7,cosmetic,apartment,loggia,agency,0.6290358744394619,middle,35,large,expensive,29.73
+APT-0373,2025-07-08,Nura,Arena City,"Kabanbay Batyr Ave, 179",114.7,5,1,7,81.36,2023,5.0,euro renovation,apartment,unknown,owner,0.7093286835222319,first,3,very_large,expensive,22.94
+APT-0394,2025-07-09,Yesil,Expo Residence,"Kerey-Zhanibek St, 104",38.5,1,19,24,28.61,2022,2.2,good,apartment,unknown,agency,0.7431168831168831,middle,4,small,expensive,38.5
+APT-0463,2025-07-12,Baikonur,Samal,"Kabanbay Batyr Ave, 5",72.5,3,13,18,38.27,2004,4.8,cosmetic,apartment,none,owner,0.5278620689655172,middle,22,large,mid,24.17
+APT-0486,2025-07-13,Almaty,Highvill,"Syganak St, 134",98.7,3,4,16,55.72,2026,4.9,cosmetic,apartment,2 balconies,agency,0.5645390070921985,middle,0,very_large,mid,32.9
+APT-0299,2025-07-13,Yesil,,"Qoshqarbayev Ave, 96",55.2,3,1,16,38.29,2012,7.6,good,apartment,unknown,developer,0.693659420289855,first,14,medium,expensive,18.4
+APT-0245,2025-07-15,Yesil,Sezim Qala,"Uly Dala Ave, 118",45.4,1,4,21,29.33,2001,6.3,cosmetic,apartment,loggia,owner,0.6460352422907489,middle,25,small,expensive,45.4
+APT-0100,2025-07-15,Saryarka,,"Saryarka Ave, 10",48.4,1,3,5,30.68,2005,7.1,designer,apartment,unknown,owner,0.6338842975206612,middle,21,small,expensive,48.4
+APT-0435,2025-07-16,Yesil,Expo Residence,"Kabanbay Batyr Ave, 39",89.2,3,6,16,52.92,2001,6.8,,apartment,unknown,owner,0.5932735426008968,middle,25,large,mid,29.73
+APT-0128,2025-07-17,Baikonur,Keruen,"Saryarka Ave, 146",63.4,2,8,9,32.37,1999,6.3,cosmetic,apartment,balcony,agency,0.5105678233438485,middle,27,medium,mid,31.7
+APT-0156,2025-07-20,Nura,Orynbor Towers,"Syganak St, 158",30.5,1,3,24,19.25,2008,6.0,cosmetic,apartment,2 balconies,owner,0.6311475409836066,middle,18,small,expensive,30.5
+APT-0320,2025-07-22,Saryarka,,"Tauelsizdik Ave, 144",97.4,3,4,7,56.03,2017,6.5,euro renovation,apartment,unknown,owner,0.5752566735112936,middle,9,very_large,mid,32.47
+APT-0262,2025-07-22,Almaty,Highvill,"Saryarka Ave, 26",51.0,1,5,5,30.87,2014,5.5,rough finish,apartment,2 balconies,developer,0.6052941176470589,last,12,medium,mid,51.0
+APT-0445,2025-07-23,Saryarka,Arman,"Kabanbay Batyr Ave, 119",50.3,2,1,12,21.6,1986,10.4,euro renovation,apartment,loggia,agency,0.42942345924453285,first,40,medium,cheap,25.15
+APT-0105,2025-07-24,Yesil,Nova City,"Kerey-Zhanibek St, 126",47.7,1,3,7,32.13,2001,6.9,cosmetic,apartment,none,owner,0.6735849056603773,middle,25,small,expensive,47.7
+APT-0024,2025-07-24,Almaty,Highvill,"Tauelsizdik Ave, 57",61.8,3,5,12,30.5,1995,6.5,rough finish,apartment,unknown,owner,0.4935275080906149,middle,31,medium,cheap,20.6
+APT-0344,2025-07-26,Yesil,Expo Residence,"Mangilik El Ave, 164",87.9,3,14,21,62.82,1987,4.3,good,apartment,unknown,owner,0.7146757679180887,middle,39,large,expensive,29.3
+APT-0234,2025-07-26,Saryarka,Arman,"Saryarka Ave, 134",130.7,4,3,7,59.43,1992,9.3,good,apartment,unknown,agency,0.45470543228768173,middle,34,very_large,cheap,32.67
+APT-0310,2025-07-26,Baikonur,Samal,"Turan Ave, 9",39.5,1,4,18,15.0,1991,8.7,rough finish,apartment,none,agency,0.379746835443038,middle,35,small,cheap,39.5
+APT-0332,2025-07-27,Saryarka,Arman,"Kerey-Zhanibek St, 172",67.0,2,4,5,31.5,1985,10.4,designer,studio,balcony,owner,0.4701492537313433,middle,41,medium,cheap,33.5
+APT-0142,2025-07-29,Almaty,Millennium Park,"Kerey-Zhanibek St, 155",69.1,2,12,12,37.11,1992,6.2,euro renovation,apartment,unknown,developer,0.5370477568740956,last,34,large,mid,34.55
+APT-0276,2025-07-30,Yesil,GreenLine,"Bogenbay Batyr Ave, 168",71.3,2,1,12,34.66,1985,6.0,rough finish,apartment,loggia,owner,0.48611500701262267,first,41,large,cheap,35.65
+APT-0070,2025-08-06,Almaty,Sat City,"Kabanbay Batyr Ave, 170",36.1,1,2,18,23.07,2010,2.9,designer,apartment,none,owner,0.6390581717451523,middle,16,small,expensive,36.1
+APT-0080,2025-08-09,Yesil,Sezim Qala,"Bogenbay Batyr Ave, 70",124.9,4,1,5,96.21,2002,5.1,good,apartment,none,owner,0.7702962369895916,first,24,very_large,expensive,31.22
+APT-0312,2025-08-10,Almaty,Highvill,"Saryarka Ave, 20",97.4,3,2,18,55.95,2024,2.9,rough finish,apartment,unknown,owner,0.574435318275154,middle,2,very_large,mid,32.47
+APT-0393,2025-08-12,Baikonur,Baikonur Residence,"Kerey-Zhanibek St, 105",28.6,1,4,7,15.0,2016,6.2,good,apartment,balcony,owner,0.5244755244755245,middle,10,small,mid,28.6
+APT-0174,2025-08-12,Almaty,,"Qoshqarbayev Ave, 102",42.6,2,6,7,27.68,2014,5.4,euro renovation,apartment,unknown,agency,0.6497652582159624,middle,12,small,expensive,21.3
+APT-0272,2025-08-13,Nura,Orynbor Towers,"Tauelsizdik Ave, 44",76.0,2,3,5,57.15,1990,5.7,euro renovation,apartment,unknown,agency,0.7519736842105263,middle,36,large,expensive,38.0
+APT-0279,2025-08-16,Baikonur,Baikonur Residence,"Kabanbay Batyr Ave, 68",79.5,3,1,5,31.32,1994,8.2,euro renovation,apartment,loggia,owner,0.3939622641509434,first,32,large,cheap,26.5
+APT-0094,2025-08-16,Almaty,Millennium Park,"Bogenbay Batyr Ave, 24",106.7,3,3,7,58.67,1990,6.3,cosmetic,studio,2 balconies,developer,0.5498594189315839,middle,36,very_large,mid,35.57
+APT-0500,2025-08-18,Yesil,Nova City,"Qoshqarbayev Ave, 12",92.6,4,9,21,67.85,1992,6.8,good,apartment,none,owner,0.7327213822894169,middle,34,very_large,expensive,23.15
+APT-0327,2025-08-19,Almaty,,"Qoshqarbayev Ave, 72",85.8,3,2,16,71.68,2025,2.8,good,apartment,unknown,owner,0.8354312354312355,middle,1,large,expensive,28.6
+APT-0149,2025-08-24,Saryarka,Zhana Saryarka,"Qoshqarbayev Ave, 11",49.3,1,14,24,24.91,2026,9.3,good,apartment,unknown,developer,0.5052738336713997,middle,0,small,mid,49.3
+APT-0048,2025-08-26,Nura,Orynbor Towers,"Saryarka Ave, 9",70.0,2,2,7,42.69,1985,7.3,euro renovation,apartment,loggia,agency,0.6098571428571429,middle,41,large,mid,35.0
+APT-0201,2025-08-27,Baikonur,Baikonur Residence,"Kabanbay Batyr Ave, 15",33.1,1,4,9,15.0,2008,8.9,cosmetic,apartment,unknown,owner,0.45317220543806647,middle,18,small,cheap,33.1
+APT-0001,2025-08-27,Yesil,GreenLine,"Kabanbay Batyr Ave, 56",40.7,1,6,7,32.33,2019,2.6,good,apartment,none,agency,0.7943488943488942,middle,7,small,expensive,40.7
+APT-0369,2025-08-28,Baikonur,Orken,"Kerey-Zhanibek St, 137",69.1,3,1,7,31.42,1995,8.2,good,apartment,unknown,agency,0.4547033285094067,first,31,large,cheap,23.03
+APT-0285,2025-08-29,Almaty,Millennium Park,"Tauelsizdik Ave, 52",54.4,1,7,18,38.84,2021,2.9,designer,apartment,unknown,developer,0.7139705882352942,middle,5,medium,expensive,54.4
+APT-0129,2025-08-30,Saryarka,Zhana Saryarka,"Saryarka Ave, 99",102.1,4,2,7,52.6,1993,6.8,designer,studio,2 balconies,agency,0.515181194906954,middle,33,very_large,mid,25.52
+APT-0441,2025-08-30,Almaty,Grand Alatau,"Saryarka Ave, 24",99.2,4,8,12,67.63,2009,1.1,designer,apartment,unknown,owner,0.6817540322580644,middle,17,very_large,expensive,24.8
+APT-0096,2025-09-01,Nura,,"Kabanbay Batyr Ave, 74",60.3,3,1,7,37.21,2001,5.7,cosmetic,apartment,loggia,owner,0.6170812603648425,first,25,medium,mid,20.1
+APT-0368,2025-09-01,Nura,Orynbor Towers,"Bogenbay Batyr Ave, 99",69.5,2,3,18,34.69,1994,8.8,euro renovation,apartment,2 balconies,agency,0.499136690647482,middle,32,large,cheap,34.75
+APT-0092,2025-09-02,Baikonur,Orken,"Uly Dala Ave, 137",117.8,4,12,21,52.89,2000,12.7,euro renovation,apartment,unknown,developer,0.44898132427843807,middle,26,very_large,cheap,29.45
+APT-0032,2025-09-02,Baikonur,Keruen,"Qoshqarbayev Ave, 125",122.8,4,6,24,57.7,2015,8.1,,apartment,loggia,agency,0.4698697068403909,middle,11,very_large,cheap,30.7
+APT-0440,2025-09-03,Nura,Capital Park,"Kerey-Zhanibek St, 172",55.4,2,5,5,25.28,1987,10.7,euro renovation,apartment,unknown,agency,0.45631768953068597,last,39,medium,cheap,27.7
+APT-0042,2025-09-04,Almaty,Sat City,"Tauelsizdik Ave, 143",76.9,2,1,16,34.87,2008,7.6,rough finish,apartment,unknown,agency,0.453446033810143,first,18,large,cheap,38.45
+APT-0114,2025-09-04,Almaty,Sat City,"Qoshqarbayev Ave, 118",63.5,1,16,24,41.02,2004,4.5,rough finish,apartment,balcony,agency,0.645984251968504,middle,22,medium,expensive,63.5
+APT-0030,2025-09-07,Yesil,Sezim Qala,"Tauelsizdik Ave, 103",34.1,2,4,7,23.42,2011,8.2,good,apartment,unknown,agency,0.6868035190615835,middle,15,small,expensive,17.05
+APT-0113,2025-09-12,Baikonur,Orken,"Syganak St, 108",42.3,1,8,24,17.48,1994,4.9,cosmetic,studio,unknown,agency,0.41323877068557924,middle,32,small,cheap,42.3
+APT-0303,2025-09-12,Nura,Orynbor Towers,"Mangilik El Ave, 32",42.7,1,6,24,20.85,1997,11.2,cosmetic,apartment,2 balconies,agency,0.4882903981264637,middle,29,small,cheap,42.7
+APT-0284,2025-09-12,Saryarka,Zhana Saryarka,"Kerey-Zhanibek St, 68",106.0,3,6,12,47.02,2011,10.6,good,apartment,unknown,owner,0.4435849056603774,middle,15,very_large,cheap,35.33
+APT-0062,2025-09-14,Almaty,Grand Alatau,"Dostyk St, 109",96.4,3,6,16,48.37,1989,4.1,good,apartment,2 balconies,agency,0.5017634854771784,middle,37,very_large,cheap,32.13
+APT-0416,2025-09-17,Yesil,GreenLine,"Tauelsizdik Ave, 31",61.6,2,4,5,39.28,2012,2.3,rough finish,apartment,none,owner,0.6376623376623377,middle,14,medium,expensive,30.8
+APT-0338,2025-09-17,Yesil,,"Mangilik El Ave, 160",52.2,2,10,24,49.88,2025,3.3,designer,apartment,none,agency,0.9555555555555556,middle,1,medium,expensive,26.1
+APT-0275,2025-09-18,Yesil,GreenLine,"Bogenbay Batyr Ave, 35",47.9,3,13,24,37.68,2007,6.1,euro renovation,studio,unknown,agency,0.7866388308977036,middle,19,small,expensive,15.97
+APT-0140,2025-09-19,Baikonur,Samal,"Bogenbay Batyr Ave, 63",67.9,2,8,9,27.23,1988,9.1,designer,apartment,unknown,owner,0.4010309278350515,middle,38,large,cheap,33.95
+APT-0489,2025-09-22,Saryarka,Arman,"Bogenbay Batyr Ave, 83",120.0,3,1,9,47.84,1988,5.4,rough finish,apartment,2 balconies,developer,0.39866666666666667,first,38,very_large,cheap,40.0
+APT-0195,2025-09-23,Nura,Capital Park,"Syganak St, 151",61.4,1,3,12,35.7,1997,10.6,good,apartment,unknown,owner,0.5814332247557004,middle,29,medium,mid,61.4
+APT-0025,2025-09-25,Nura,Comfort Town,"Mangilik El Ave, 30",35.5,1,3,16,19.94,2002,6.8,good,penthouse,balcony,agency,0.5616901408450704,middle,24,small,mid,35.5
+APT-0205,2025-09-29,Saryarka,Arai,"Tauelsizdik Ave, 3",41.7,1,6,18,15.48,2025,10.1,rough finish,apartment,unknown,owner,0.3712230215827338,middle,1,small,cheap,41.7
+APT-0210,2025-09-29,Baikonur,Orken,"Tauelsizdik Ave, 126",68.8,2,3,16,29.91,2015,11.6,good,apartment,unknown,agency,0.4347383720930233,middle,11,large,cheap,34.4
+APT-0376,2025-09-30,Yesil,GreenLine,"Dostyk St, 100",39.1,1,4,5,17.59,1994,6.6,rough finish,apartment,unknown,agency,0.44987212276214833,middle,32,small,cheap,39.1
+APT-0101,2025-10-01,Almaty,Sat City,"Abay Ave, 133",65.6,2,15,21,34.41,2008,3.4,cosmetic,apartment,unknown,agency,0.5245426829268293,middle,18,medium,mid,32.8
+APT-0216,2025-10-03,Nura,,"Mangilik El Ave, 122",72.9,2,2,21,47.46,2010,11.1,good,apartment,loggia,owner,0.6510288065843621,middle,16,large,expensive,36.45
+APT-0455,2025-10-03,Yesil,Sezim Qala,"Tauelsizdik Ave, 161",32.0,2,5,18,19.75,1986,2.6,euro renovation,apartment,none,owner,0.6171875,middle,40,small,mid,16.0
+APT-0187,2025-10-05,Yesil,Sezim Qala,"Kerey-Zhanibek St, 82",55.1,2,5,5,43.16,2026,4.9,good,apartment,none,agency,0.7833030852994555,last,0,medium,expensive,27.55
+APT-0185,2025-10-06,Baikonur,Baikonur Residence,"Abay Ave, 110",65.8,2,5,18,17.21,2002,10.6,rough finish,penthouse,unknown,owner,0.26155015197568393,middle,24,medium,cheap,32.9
+APT-0065,2025-10-07,Almaty,,"Qoshqarbayev Ave, 129",93.3,3,6,21,57.73,1997,1.9,good,apartment,unknown,owner,0.6187566988210075,middle,29,very_large,mid,31.1
+APT-0071,2025-10-11,Nura,,"Syganak St, 1",90.4,3,10,12,57.31,1998,10.5,cosmetic,apartment,unknown,developer,0.6339601769911505,middle,28,large,expensive,30.13
+APT-0339,2025-10-12,Baikonur,Baikonur Residence,"Uly Dala Ave, 141",91.7,4,10,12,38.97,2015,8.1,good,apartment,unknown,owner,0.4249727371864776,middle,11,very_large,cheap,22.92
+APT-0423,2025-10-13,Saryarka,Dostyk House,"Tauelsizdik Ave, 131",56.8,2,13,16,25.12,2007,6.8,euro renovation,apartment,unknown,agency,0.4422535211267606,middle,19,medium,cheap,28.4
+APT-0190,2025-10-14,Yesil,Sezim Qala,"Mangilik El Ave, 37",164.3,5,4,16,106.44,1998,5.7,cosmetic,apartment,unknown,owner,0.647839318320146,middle,28,very_large,expensive,32.86
+APT-0088,2025-10-17,Almaty,Millennium Park,"Abay Ave, 96",159.9,5,2,5,101.18,2013,7.9,good,apartment,unknown,owner,0.6327704815509694,middle,13,very_large,expensive,31.98
+APT-0109,2025-10-18,Baikonur,Samal,"Abay Ave, 133",116.7,4,5,9,61.68,1995,5.5,designer,apartment,none,owner,0.5285347043701799,middle,31,very_large,mid,29.18
+APT-0479,2025-10-19,Yesil,Expo Residence,"Abay Ave, 77",59.7,2,8,18,49.1,2008,6.0,designer,apartment,unknown,agency,0.8224455611390284,middle,18,medium,expensive,29.85
+APT-0340,2025-10-19,Almaty,Millennium Park,"Turan Ave, 173",52.8,1,11,16,26.32,1990,1.3,good,apartment,balcony,developer,0.49848484848484853,middle,36,medium,cheap,52.8
+APT-0387,2025-10-19,Nura,,"Dostyk St, 94",69.7,2,16,24,55.38,1996,5.3,designer,apartment,balcony,agency,0.7945480631276901,middle,30,large,expensive,34.85
+APT-0280,2025-10-20,Saryarka,Arman,"Dostyk St, 133",111.3,5,2,16,53.71,1996,8.1,good,apartment,unknown,owner,0.4825696316262354,middle,30,very_large,cheap,22.26
+APT-0431,2025-10-22,Almaty,,"Qoshqarbayev Ave, 55",62.75,2,5,9,30.88,2008,7.8,cosmetic,penthouse,unknown,owner,0.49211155378486054,middle,18,medium,cheap,31.38
+APT-0467,2025-10-22,Yesil,Sezim Qala,"Mangilik El Ave, 42",43.5,2,4,7,26.89,2024,8.6,good,apartment,unknown,agency,0.6181609195402299,middle,2,small,mid,21.75
+APT-0122,2025-10-23,Baikonur,Keruen,"Uly Dala Ave, 77",62.75,2,16,16,16.02,1997,12.6,cosmetic,apartment,unknown,agency,0.25529880478087646,last,29,medium,cheap,31.38
+APT-0361,2025-10-23,Saryarka,Arai,"Bogenbay Batyr Ave, 40",41.2,2,5,24,18.46,1997,7.4,euro renovation,apartment,balcony,owner,0.44805825242718444,middle,29,small,cheap,20.6
+APT-0081,2025-10-24,Baikonur,Samal,"Turan Ave, 66",58.9,2,20,21,23.22,1988,4.1,good,apartment,unknown,owner,0.39422750424448216,middle,38,medium,cheap,29.45
+APT-0111,2025-10-24,Yesil,Sezim Qala,"Dostyk St, 140",61.5,1,7,16,45.86,2021,4.9,euro renovation,apartment,loggia,agency,0.7456910569105691,middle,5,medium,expensive,61.5
+APT-0319,2025-10-24,Baikonur,Baikonur Residence,"Uly Dala Ave, 111",70.5,3,1,9,35.53,2010,12.7,euro renovation,apartment,2 balconies,owner,0.5039716312056738,first,16,large,mid,23.5
+APT-0259,2025-10-24,Yesil,Nova City,"Qoshqarbayev Ave, 28",62.1,2,7,7,51.14,2022,2.3,euro renovation,apartment,loggia,agency,0.8235104669887279,last,4,medium,expensive,31.05
+APT-0123,2025-10-25,Saryarka,Dostyk House,"Abay Ave, 38",62.75,2,10,16,31.1,1992,7.6,good,apartment,unknown,owner,0.49561752988047814,middle,34,medium,cheap,31.38
+APT-0343,2025-10-25,Almaty,Millennium Park,"Syganak St, 60",74.1,2,8,9,45.07,2018,6.1,good,apartment,unknown,owner,0.6082321187584346,middle,8,large,mid,37.05
+APT-0060,2025-10-28,Nura,Capital Park,"Abay Ave, 15",75.3,3,4,7,50.1,1995,9.6,designer,apartment,loggia,owner,0.6653386454183268,middle,31,large,expensive,25.1
+APT-0180,2025-10-30,Nura,Arena City,"Kerey-Zhanibek St, 101",54.5,2,1,16,35.1,2004,5.6,euro renovation,apartment,none,agency,0.6440366972477064,first,22,medium,expensive,27.25
+APT-0044,2025-10-31,Nura,Comfort Town,"Kabanbay Batyr Ave, 50",59.5,2,4,9,23.76,1998,7.8,,apartment,unknown,owner,0.399327731092437,middle,28,medium,cheap,29.75
+APT-0260,2025-11-02,Saryarka,Arai,"Dostyk St, 37",62.5,2,9,9,29.06,1999,4.1,good,apartment,unknown,developer,0.46496,last,27,medium,cheap,31.25
+APT-0317,2025-11-04,Yesil,GreenLine,"Syganak St, 165",71.8,3,6,7,44.33,2005,7.6,,apartment,none,agency,0.6174094707520892,middle,21,large,mid,23.93
+APT-0409,2025-11-04,Almaty,,"Turan Ave, 68",110.9,3,16,16,68.75,2007,6.2,cosmetic,apartment,2 balconies,owner,0.6199278629395851,last,19,very_large,mid,36.97
+APT-0348,2025-11-06,Almaty,Grand Alatau,"Uly Dala Ave, 135",80.4,3,3,21,49.11,2016,7.1,good,apartment,unknown,owner,0.610820895522388,middle,10,large,mid,26.8
+APT-0469,2025-11-07,Baikonur,Baikonur Residence,"Bogenbay Batyr Ave, 127",40.1,1,5,24,17.22,1996,5.8,euro renovation,apartment,unknown,owner,0.4294264339152119,middle,30,small,cheap,40.1
+APT-0193,2025-11-08,Almaty,Highvill,"Turan Ave, 176",25.7,2,8,12,15.21,2004,4.2,euro renovation,apartment,unknown,owner,0.5918287937743191,middle,22,small,mid,12.85
+APT-0133,2025-11-12,Yesil,GreenLine,"Qoshqarbayev Ave, 119",78.2,3,2,24,53.96,2014,2.9,good,apartment,none,owner,0.6900255754475704,middle,12,large,expensive,26.07
+APT-0029,2025-11-14,Nura,Comfort Town,"Kabanbay Batyr Ave, 61",70.6,2,2,9,35.94,2003,8.1,,apartment,balcony,agency,0.5090651558073654,middle,23,large,mid,35.3
+APT-0350,2025-11-16,Saryarka,Zhana Saryarka,"Qoshqarbayev Ave, 169",80.6,3,5,5,42.08,1990,5.7,designer,apartment,unknown,agency,0.5220843672456575,last,36,large,mid,26.87
+APT-0079,2025-11-16,Saryarka,Arai,"Turan Ave, 95",40.2,1,6,7,15.49,2018,4.7,good,apartment,loggia,agency,0.3853233830845771,middle,8,small,cheap,40.2
+APT-0082,2025-11-17,Saryarka,Zhana Saryarka,"Tauelsizdik Ave, 20",28.3,1,3,18,15.0,2010,9.9,rough finish,apartment,2 balconies,agency,0.5300353356890459,middle,16,small,mid,28.3
+APT-0018,2025-11-18,Yesil,Nova City,"Saryarka Ave, 53",111.2,5,5,5,69.76,1990,4.9,,apartment,balcony,owner,0.6273381294964029,last,36,very_large,expensive,22.24
+APT-0239,2025-11-18,Nura,Capital Park,"Kabanbay Batyr Ave, 67",86.0,3,8,9,53.34,2016,4.9,good,apartment,unknown,agency,0.6202325581395349,middle,10,large,mid,28.67
+APT-0121,2025-11-18,Baikonur,Orken,"Qoshqarbayev Ave, 97",110.5,3,2,5,49.06,2018,5.9,good,apartment,unknown,agency,0.4439819004524887,middle,8,very_large,cheap,36.83
+APT-0419,2025-11-18,Saryarka,Arman,"Bogenbay Batyr Ave, 29",48.2,2,2,7,18.9,2007,10.9,good,apartment,unknown,agency,0.39211618257261405,middle,19,small,cheap,24.1
+APT-0153,2025-11-21,Saryarka,Arman,"Kerey-Zhanibek St, 100",26.2,1,1,7,15.0,2002,4.2,euro renovation,apartment,loggia,owner,0.5725190839694657,first,24,small,mid,26.2
+APT-0450,2025-11-21,Almaty,Sat City,"Turan Ave, 23",44.7,1,5,9,27.76,1995,4.5,designer,apartment,unknown,owner,0.6210290827740492,middle,31,small,mid,44.7
+APT-0204,2025-11-22,Nura,Capital Park,"Turan Ave, 155",59.8,2,1,9,43.21,2021,7.1,designer,apartment,balcony,agency,0.7225752508361204,first,5,medium,expensive,29.9
+APT-0138,2025-11-25,Nura,Comfort Town,"Syganak St, 154",61.7,2,9,9,38.54,2003,5.9,designer,apartment,unknown,owner,0.6246353322528363,last,23,medium,expensive,30.85
+APT-0494,2025-11-26,Almaty,Sat City,"Saryarka Ave, 63",113.2,4,11,18,90.08,2025,2.8,euro renovation,studio,unknown,owner,0.7957597173144876,middle,1,very_large,expensive,28.3
+APT-0085,2025-11-27,Nura,Orynbor Towers,"Dostyk St, 145",83.5,3,8,9,48.92,1999,10.0,euro renovation,apartment,loggia,owner,0.5858682634730539,middle,27,large,mid,27.83
+APT-0336,2025-11-28,Baikonur,Orken,"Kabanbay Batyr Ave, 65",30.8,1,8,9,16.83,2022,12.1,designer,apartment,unknown,agency,0.5464285714285714,middle,4,small,mid,30.8
+APT-0429,2025-11-30,Yesil,Expo Residence,"Mangilik El Ave, 138",82.3,3,6,7,49.45,1989,8.1,rough finish,apartment,none,agency,0.600850546780073,middle,37,large,mid,27.43
+APT-0027,2025-12-01,Nura,Comfort Town,"Dostyk St, 105",79.7,2,11,18,46.15,1992,9.8,,apartment,2 balconies,agency,0.5790464240903387,middle,34,large,mid,39.85
+APT-0067,2025-12-02,Saryarka,Zhana Saryarka,"Syganak St, 144",60.9,2,21,21,26.69,2008,3.9,cosmetic,apartment,unknown,agency,0.4382594417077176,last,18,medium,cheap,30.45
+APT-0345,2025-12-05,Almaty,Highvill,"Turan Ave, 50",60.3,2,11,18,37.82,2010,6.1,euro renovation,apartment,unknown,developer,0.6271973466003317,middle,16,medium,expensive,30.15
+APT-0208,2025-12-06,Yesil,Expo Residence,"Mangilik El Ave, 26",90.5,2,4,5,78.0,2026,3.2,designer,apartment,balcony,developer,0.861878453038674,middle,0,large,expensive,45.25
+APT-0442,2025-12-07,Saryarka,Dostyk House,"Tauelsizdik Ave, 106",101.8,3,2,21,40.56,2002,9.9,euro renovation,apartment,unknown,developer,0.3984282907662083,middle,24,very_large,cheap,33.93
+APT-0374,2025-12-07,Yesil,GreenLine,"Bogenbay Batyr Ave, 100",93.4,3,11,21,56.3,2001,3.1,rough finish,apartment,none,owner,0.6027837259100641,middle,25,very_large,mid,31.13
+APT-0021,2025-12-08,Almaty,Grand Alatau,"Mangilik El Ave, 1",35.8,1,9,24,18.63,1988,1.6,good,apartment,balcony,agency,0.520391061452514,middle,38,small,mid,35.8
+APT-0337,2025-12-10,Yesil,Sezim Qala,"Mangilik El Ave, 44",77.5,3,17,21,54.39,2024,8.6,good,apartment,unknown,owner,0.7018064516129032,middle,2,large,expensive,25.83
+APT-0395,2025-12-10,Yesil,Expo Residence,"Dostyk St, 21",102.1,4,17,18,105.76,1987,4.1,euro renovation,studio,none,agency,1.0358472086190011,middle,39,very_large,expensive,25.52
+APT-0293,2025-12-12,Almaty,Millennium Park,"Turan Ave, 164",55.9,3,4,7,40.45,2006,3.0,euro renovation,apartment,unknown,agency,0.723613595706619,middle,20,medium,expensive,18.63
+APT-0144,2025-12-12,Nura,Arena City,"Tauelsizdik Ave, 141",102.2,3,10,21,59.87,1994,5.6,cosmetic,apartment,unknown,agency,0.585812133072407,middle,32,very_large,mid,34.07
+APT-0378,2025-12-15,Saryarka,Zhana Saryarka,"Abay Ave, 137",25.0,1,10,18,15.0,2007,3.4,designer,apartment,none,agency,0.6,middle,19,small,mid,25.0
+APT-0177,2025-12-18,Nura,Orynbor Towers,"Mangilik El Ave, 3",66.3,2,8,12,38.03,1989,5.1,cosmetic,apartment,unknown,developer,0.5736048265460031,middle,37,medium,mid,33.15
+APT-0247,2025-12-18,Nura,,"Saryarka Ave, 102",33.0,1,17,18,19.93,2009,7.3,euro renovation,apartment,unknown,agency,0.6039393939393939,middle,17,small,mid,33.0
+APT-0402,2025-12-19,Nura,Capital Park,"Dostyk St, 82",70.4,1,8,9,48.48,2001,7.0,cosmetic,apartment,unknown,owner,0.6886363636363635,middle,25,large,expensive,70.4
+APT-0112,2025-12-20,Saryarka,Arman,"Abay Ave, 82",65.4,2,14,24,33.4,2015,6.7,good,apartment,unknown,owner,0.510703363914373,middle,11,medium,mid,32.7
+APT-0432,2025-12-22,Saryarka,Dostyk House,"Bogenbay Batyr Ave, 54",75.9,4,5,7,30.39,2006,5.2,good,apartment,unknown,agency,0.400395256916996,middle,20,large,cheap,18.98
+APT-0414,2025-12-23,Nura,Arena City,"Mangilik El Ave, 123",82.3,4,4,7,41.56,2005,11.3,rough finish,apartment,unknown,agency,0.5049817739975699,middle,21,large,mid,20.58
+APT-0162,2025-12-23,Baikonur,Baikonur Residence,"Kerey-Zhanibek St, 37",114.6,3,4,24,76.98,2008,7.7,designer,apartment,loggia,owner,0.6717277486910995,middle,18,very_large,expensive,38.2
+APT-0077,2025-12-25,Saryarka,Dostyk House,"Uly Dala Ave, 28",99.4,4,12,16,25.45,1991,7.6,cosmetic,apartment,unknown,owner,0.2560362173038229,middle,35,very_large,cheap,24.85
+APT-0417,2025-12-27,Yesil,Nova City,"Syganak St, 90",91.5,3,3,12,62.98,2007,5.0,cosmetic,apartment,unknown,developer,0.6883060109289617,middle,19,very_large,expensive,30.5
+APT-0097,2025-12-28,Baikonur,Orken,"Mangilik El Ave, 158",84.3,2,5,5,46.0,2021,8.5,cosmetic,apartment,unknown,agency,0.5456702253855279,last,5,large,mid,42.15
+APT-0013,2025-12-29,Baikonur,Baikonur Residence,"Dostyk St, 111",56.3,1,8,24,19.95,2008,11.3,cosmetic,apartment,unknown,owner,0.3543516873889876,middle,18,medium,cheap,56.3
+APT-0370,2025-12-29,Almaty,Highvill,"Kabanbay Batyr Ave, 137",43.3,1,13,24,24.77,2005,4.300000000000001,euro renovation,apartment,2 balconies,agency,0.5720554272517321,middle,21,small,mid,43.3
+APT-0478,2025-12-29,Baikonur,Keruen,"Dostyk St, 130",66.9,2,17,21,23.02,1992,10.6,euro renovation,apartment,unknown,owner,0.3440956651718983,middle,34,medium,cheap,33.45
+APT-0244,2025-12-30,Nura,Arena City,"Mangilik El Ave, 88",92.9,4,23,24,57.4,2008,9.7,rough finish,apartment,unknown,agency,0.6178686759956943,middle,18,very_large,mid,23.22
+APT-0411,2026-01-01,Saryarka,Dostyk House,"Kerey-Zhanibek St, 35",143.0,5,3,5,50.63,1995,7.7,,apartment,unknown,owner,0.3540559440559441,middle,31,very_large,cheap,28.6
+APT-0098,2026-01-01,Yesil,Nova City,"Saryarka Ave, 5",38.8,2,4,5,33.35,2015,2.3,good,apartment,unknown,owner,0.8595360824742269,middle,11,small,expensive,19.4
+APT-0267,2026-01-03,Nura,Arena City,"Kerey-Zhanibek St, 124",102.1,4,9,9,56.49,1993,7.6,cosmetic,apartment,none,owner,0.553281096963761,last,33,very_large,mid,25.52
+APT-0264,2026-01-03,Almaty,Sat City,"Tauelsizdik Ave, 115",65.1,2,9,21,49.09,2008,1.9,euro renovation,apartment,loggia,agency,0.7540706605222736,middle,18,medium,expensive,32.55
+APT-0236,2026-01-04,Yesil,Expo Residence,"Mangilik El Ave, 75",91.9,3,8,12,59.52,2003,3.8,rough finish,apartment,loggia,owner,0.6476605005440697,middle,23,very_large,expensive,30.63
+APT-0160,2026-01-04,Saryarka,,"Qoshqarbayev Ave, 10",125.7,3,19,24,81.77,2005,7.3,designer,apartment,none,owner,0.6505171042163882,middle,21,very_large,expensive,41.9
+APT-0468,2026-01-04,Baikonur,Orken,"Dostyk St, 168",51.2,1,5,24,18.08,2003,10.5,good,apartment,unknown,agency,0.35312499999999997,middle,23,medium,cheap,51.2
+APT-0209,2026-01-05,Baikonur,Orken,"Turan Ave, 14",80.4,3,10,16,32.41,2000,4.9,good,apartment,unknown,owner,0.4031094527363183,middle,26,large,cheap,26.8
+APT-0473,2026-01-05,Nura,Comfort Town,"Abay Ave, 107",40.3,2,8,12,26.31,2006,6.3,cosmetic,apartment,unknown,owner,0.6528535980148884,middle,20,small,expensive,20.15
+APT-0497,2026-01-07,Saryarka,Arman,"Uly Dala Ave, 127",41.1,1,7,18,15.0,1990,9.5,euro renovation,apartment,unknown,owner,0.36496350364963503,middle,36,small,cheap,41.1
+APT-0263,2026-01-09,Nura,,"Syganak St, 146",25.0,1,16,18,15.21,2013,6.6,euro renovation,apartment,unknown,developer,0.6084,middle,13,small,mid,25.0
+APT-0202,2026-01-09,Almaty,Millennium Park,"Kabanbay Batyr Ave, 135",110.9,4,6,9,67.15,1988,1.2,good,studio,none,owner,0.6055004508566276,middle,38,very_large,mid,27.72
+APT-0118,2026-01-13,Nura,Comfort Town,"Tauelsizdik Ave, 5",41.0,2,17,18,25.39,2017,8.3,euro renovation,penthouse,unknown,agency,0.6192682926829268,middle,9,small,mid,20.5
+APT-0458,2026-01-13,Baikonur,Orken,"Kabanbay Batyr Ave, 109",30.5,1,8,12,15.0,2013,12.0,good,apartment,balcony,agency,0.4918032786885246,middle,13,small,cheap,30.5
+APT-0143,2026-01-15,Almaty,Sat City,"Abay Ave, 53",48.1,2,12,16,28.0,2017,7.2,good,apartment,loggia,owner,0.5821205821205822,middle,9,small,mid,24.05
+APT-0069,2026-01-15,Baikonur,Keruen,"Mangilik El Ave, 177",60.6,2,21,21,20.52,1991,11.5,euro renovation,studio,unknown,agency,0.3386138613861386,last,35,medium,cheap,30.3
+APT-0226,2026-01-16,Baikonur,Keruen,"Bogenbay Batyr Ave, 85",91.9,3,3,18,48.91,1999,7.2,euro renovation,apartment,unknown,agency,0.532208922742111,middle,27,very_large,mid,30.63
+APT-0322,2026-01-18,Almaty,Millennium Park,"Uly Dala Ave, 176",95.5,3,15,18,58.67,2024,2.0,rough finish,apartment,balcony,agency,0.6143455497382199,middle,2,very_large,mid,31.83
+APT-0038,2026-01-20,Almaty,Highvill,"Saryarka Ave, 148",83.9,3,7,7,46.42,1995,7.8,rough finish,apartment,unknown,developer,0.5532777115613826,last,31,large,mid,27.97
+APT-0002,2026-01-25,Baikonur,Keruen,"Kabanbay Batyr Ave, 24",50.3,2,2,5,22.17,2012,7.1,cosmetic,apartment,unknown,owner,0.44075546719681913,middle,14,medium,cheap,25.15
+APT-0057,2026-01-26,Baikonur,Baikonur Residence,"Abay Ave, 122",86.8,2,10,12,39.31,2009,6.1,euro renovation,apartment,unknown,developer,0.4528801843317973,middle,17,large,cheap,43.4
+APT-0318,2026-01-27,Yesil,,"Dostyk St, 162",83.9,3,14,21,52.84,1992,8.1,cosmetic,apartment,none,owner,0.6297973778307508,middle,34,large,expensive,27.97
+APT-0448,2026-01-28,Nura,Orynbor Towers,"Dostyk St, 55",94.8,3,3,24,58.03,1985,7.8,designer,apartment,unknown,agency,0.6121308016877638,middle,41,very_large,mid,31.6
+APT-0215,2026-01-28,Baikonur,Keruen,"Bogenbay Batyr Ave, 68",88.9,3,1,7,45.15,2021,11.0,euro renovation,apartment,unknown,agency,0.5078740157480315,first,5,large,mid,29.63
+APT-0258,2026-02-02,Nura,Arena City,"Saryarka Ave, 105",41.3,1,1,7,21.88,1996,10.4,good,apartment,2 balconies,agency,0.5297820823244552,first,30,small,mid,41.3
+APT-0438,2026-02-04,Yesil,Nova City,"Abay Ave, 150",77.3,2,16,16,38.83,1990,3.7,cosmetic,apartment,balcony,developer,0.5023285899094437,last,36,large,mid,38.65
+APT-0326,2026-02-07,Baikonur,Keruen,"Abay Ave, 126",67.4,2,18,24,36.93,1986,4.4,designer,apartment,unknown,owner,0.5479228486646883,middle,40,large,mid,33.7
+APT-0333,2026-02-08,Saryarka,Dostyk House,"Kerey-Zhanibek St, 81",92.1,4,8,24,39.67,2012,6.2,rough finish,apartment,unknown,agency,0.430727470141151,middle,14,very_large,cheap,23.02
+APT-0116,2026-02-08,Baikonur,Baikonur Residence,"Turan Ave, 25",37.6,1,18,24,15.0,2008,11.4,euro renovation,apartment,loggia,agency,0.39893617021276595,middle,18,small,cheap,37.6
+APT-0281,2026-02-09,Baikonur,Keruen,"Bogenbay Batyr Ave, 91",64.0,3,8,18,29.69,2026,4.0,cosmetic,apartment,2 balconies,agency,0.46390625,middle,0,medium,cheap,21.33
+APT-0493,2026-02-09,Baikonur,Baikonur Residence,"Saryarka Ave, 23",38.4,2,10,12,15.0,2017,6.5,cosmetic,apartment,none,agency,0.390625,middle,9,small,cheap,19.2
+APT-0305,2026-02-10,Nura,,"Syganak St, 31",80.7,2,2,7,51.14,2025,7.5,rough finish,apartment,balcony,owner,0.6337050805452292,middle,1,large,expensive,40.35
+APT-0421,2026-02-10,Saryarka,Dostyk House,"Dostyk St, 27",41.3,1,22,24,39.7,2008,4.4,designer,apartment,unknown,agency,0.9612590799031479,middle,18,small,expensive,41.3
+APT-0104,2026-02-12,Almaty,Millennium Park,"Qoshqarbayev Ave, 94",64.4,2,8,9,41.24,2008,3.6,euro renovation,apartment,unknown,agency,0.6403726708074534,middle,18,medium,expensive,32.2
+APT-0150,2026-02-12,Baikonur,Samal,"Syganak St, 37",66.3,2,2,16,22.77,1996,12.4,good,apartment,unknown,owner,0.3434389140271493,middle,30,medium,cheap,33.15
+APT-0005,2026-02-15,Saryarka,Arman,"Mangilik El Ave, 81",81.0,2,11,12,37.74,2005,9.7,euro renovation,studio,unknown,owner,0.46592592592592597,middle,21,large,cheap,40.5
+APT-0083,2026-02-15,Saryarka,Arman,"Bogenbay Batyr Ave, 151",30.9,2,8,9,19.59,2008,3.7,euro renovation,apartment,none,owner,0.6339805825242719,middle,18,small,expensive,15.45
+APT-0115,2026-02-17,Almaty,Millennium Park,"Saryarka Ave, 94",76.1,2,10,24,41.04,2019,1.1,rough finish,apartment,unknown,owner,0.5392904073587386,middle,7,large,mid,38.05
+APT-0422,2026-02-18,Yesil,Nova City,"Uly Dala Ave, 153",29.0,1,6,7,23.36,1995,2.5,designer,apartment,unknown,owner,0.8055172413793104,middle,31,small,expensive,29.0
+APT-0231,2026-02-18,Yesil,Nova City,"Uly Dala Ave, 43",102.1,4,14,18,83.33,1993,4.4,designer,apartment,unknown,owner,0.8161606268364349,middle,33,very_large,expensive,25.52
+APT-0476,2026-02-19,Almaty,Sat City,"Kerey-Zhanibek St, 89",39.3,1,7,9,29.34,2013,5.5,designer,apartment,unknown,developer,0.7465648854961833,middle,13,small,expensive,39.3
+APT-0355,2026-02-20,Saryarka,Arman,"Qoshqarbayev Ave, 27",67.3,2,15,24,30.93,1995,5.3,good,apartment,unknown,owner,0.4595839524517088,middle,31,medium,cheap,33.65
+APT-0033,2026-02-22,Nura,Arena City,"Kabanbay Batyr Ave, 107",53.6,2,3,9,33.95,2005,7.1,cosmetic,apartment,loggia,agency,0.6333955223880597,middle,21,medium,expensive,26.8
+APT-0134,2026-02-23,Nura,Orynbor Towers,"Mangilik El Ave, 74",96.1,3,5,7,43.2,1988,11.5,rough finish,apartment,balcony,agency,0.44953173777315303,middle,38,very_large,cheap,32.03
+APT-0447,2026-02-23,Almaty,Millennium Park,"Bogenbay Batyr Ave, 47",53.6,2,10,12,26.16,1998,8.0,cosmetic,penthouse,balcony,owner,0.4880597014925373,middle,28,medium,cheap,26.8
+APT-0058,2026-02-24,Nura,Capital Park,"Kerey-Zhanibek St, 37",77.1,2,4,18,60.36,2013,4.8,designer,apartment,balcony,owner,0.7828793774319067,middle,13,large,expensive,38.55
+APT-0189,2026-02-24,Baikonur,Samal,"Turan Ave, 2",81.2,3,16,18,26.41,1997,10.6,good,apartment,unknown,owner,0.3252463054187192,middle,29,large,cheap,27.07
+APT-0321,2026-02-28,Baikonur,Baikonur Residence,"Kabanbay Batyr Ave, 172",80.9,3,3,7,41.59,2008,6.9,,apartment,2 balconies,owner,0.5140914709517923,middle,18,large,mid,26.97
+APT-0227,2026-02-28,Yesil,Sezim Qala,"Qoshqarbayev Ave, 77",73.4,2,4,7,50.6,1997,5.5,,apartment,unknown,developer,0.6893732970027248,middle,29,large,expensive,36.7
+APT-0270,2026-03-01,Nura,Capital Park,"Dostyk St, 59",63.1,2,7,16,42.19,1994,5.5,good,apartment,unknown,agency,0.668621236133122,middle,32,medium,expensive,31.55
+APT-0254,2026-03-02,Baikonur,Baikonur Residence,"Qoshqarbayev Ave, 41",98.0,4,3,18,59.74,2005,8.7,designer,apartment,unknown,owner,0.6095918367346939,middle,21,very_large,mid,24.5
+APT-0481,2026-03-03,Saryarka,,"Kerey-Zhanibek St, 126",36.6,1,9,21,17.1,2022,7.0,good,apartment,balcony,owner,0.4672131147540984,middle,4,small,cheap,36.6
+APT-0238,2026-03-03,Almaty,,"Turan Ave, 27",100.4,4,21,21,57.84,1995,1.8,euro renovation,apartment,unknown,agency,0.5760956175298805,last,31,very_large,mid,25.1
+APT-0139,2026-03-03,Baikonur,Orken,"Qoshqarbayev Ave, 82",40.7,1,7,9,23.18,2020,8.5,designer,apartment,2 balconies,owner,0.5695331695331695,middle,6,small,mid,40.7
+APT-0217,2026-03-03,Almaty,Sat City,"Abay Ave, 69",76.2,2,7,7,45.18,2008,1.9,designer,apartment,unknown,owner,0.5929133858267717,last,18,large,mid,38.1
+APT-0392,2026-03-04,Saryarka,Arman,"Syganak St, 2",102.1,4,4,12,55.42,2005,6.5,cosmetic,apartment,unknown,owner,0.5428011753183154,middle,21,very_large,mid,25.52
+APT-0120,2026-03-05,Baikonur,,"Tauelsizdik Ave, 81",60.3,3,1,12,25.22,2021,8.5,rough finish,apartment,unknown,owner,0.41824212271973465,first,5,medium,cheap,20.1
+APT-0181,2026-03-07,Nura,Arena City,"Bogenbay Batyr Ave, 146",73.5,2,5,7,46.07,1985,11.9,designer,apartment,unknown,agency,0.6268027210884354,middle,41,large,expensive,36.75
+APT-0365,2026-03-08,Yesil,Sezim Qala,"Syganak St, 85",61.6,3,3,5,43.02,2019,7.4,good,apartment,unknown,developer,0.6983766233766234,middle,7,medium,expensive,20.53
+APT-0439,2026-03-10,Yesil,GreenLine,"Abay Ave, 140",54.7,1,2,16,40.34,2016,5.7,euro renovation,studio,unknown,agency,0.7374771480804387,middle,10,medium,expensive,54.7
+APT-0090,2026-03-10,Saryarka,Zhana Saryarka,"Dostyk St, 172",40.7,1,21,21,18.28,2006,9.5,euro renovation,apartment,unknown,owner,0.4491400491400491,last,20,small,cheap,40.7
+APT-0362,2026-03-12,Yesil,Sezim Qala,"Kerey-Zhanibek St, 155",55.2,1,2,9,31.31,1993,6.5,good,apartment,unknown,agency,0.5672101449275362,middle,33,medium,mid,55.2
+APT-0073,2026-03-13,Almaty,Highvill,"Tauelsizdik Ave, 103",73.8,2,5,5,52.75,2004,4.2,designer,apartment,unknown,agency,0.714769647696477,last,22,large,expensive,36.9
+APT-0313,2026-03-14,Saryarka,Arai,"Dostyk St, 118",33.0,1,9,9,15.0,2020,6.3,,apartment,unknown,owner,0.45454545454545453,last,6,small,cheap,33.0
+APT-0006,2026-03-15,Baikonur,,"Kerey-Zhanibek St, 150",97.6,4,21,21,52.88,2014,5.3,cosmetic,penthouse,unknown,owner,0.5418032786885246,last,12,very_large,mid,24.4
+APT-0428,2026-03-15,Almaty,Grand Alatau,"Bogenbay Batyr Ave, 25",65.2,2,12,18,50.57,2022,1.2,designer,apartment,unknown,developer,0.7756134969325154,middle,4,medium,expensive,32.6
+APT-0314,2026-03-17,Saryarka,Arai,"Bogenbay Batyr Ave, 163",51.5,2,12,24,25.33,2005,7.4,designer,apartment,loggia,agency,0.4918446601941747,middle,21,medium,cheap,25.75
+APT-0050,2026-03-19,Baikonur,Baikonur Residence,"Syganak St, 11",89.2,4,13,16,39.1,2008,8.5,,apartment,loggia,agency,0.4383408071748879,middle,18,large,cheap,22.3
+APT-0465,2026-03-19,Saryarka,Arai,"Mangilik El Ave, 27",72.8,2,5,12,31.45,2021,9.6,good,apartment,unknown,agency,0.4320054945054945,middle,5,large,cheap,36.4
+APT-0360,2026-03-19,Nura,Comfort Town,"Mangilik El Ave, 61",143.8,4,1,5,99.84,2020,10.6,good,apartment,2 balconies,agency,0.6942976356050069,first,6,very_large,expensive,35.95
+APT-0451,2026-03-23,Yesil,,"Qoshqarbayev Ave, 81",81.1,5,12,16,68.45,2007,4.0,designer,penthouse,unknown,owner,0.8440197287299631,middle,19,large,expensive,16.22
+APT-0026,2026-03-23,Yesil,Expo Residence,"Saryarka Ave, 12",25.0,1,14,18,16.28,2023,8.9,rough finish,apartment,none,agency,0.6512,middle,3,small,expensive,25.0
+APT-0379,2026-03-25,Almaty,Grand Alatau,"Tauelsizdik Ave, 22",84.0,3,7,21,56.71,2004,5.9,designer,apartment,unknown,owner,0.6751190476190476,middle,22,large,expensive,28.0
+APT-0334,2026-03-27,Yesil,,"Uly Dala Ave, 75",108.6,4,5,5,89.26,2009,5.6,euro renovation,apartment,2 balconies,developer,0.8219152854511972,last,17,very_large,expensive,27.15
+APT-0053,2026-03-29,Almaty,,"Syganak St, 128",45.4,1,5,5,21.68,2014,3.9,,apartment,none,owner,0.4775330396475771,last,12,small,cheap,45.4
+APT-0051,2026-03-29,Nura,Orynbor Towers,"Qoshqarbayev Ave, 167",148.5,5,3,5,106.18,2021,4.3,euro renovation,apartment,unknown,owner,0.7150168350168351,middle,5,very_large,expensive,29.7
+APT-0420,2026-03-31,Saryarka,Dostyk House,"Syganak St, 80",76.3,3,1,5,30.68,2005,6.9,good,apartment,unknown,agency,0.40209698558322415,first,21,large,cheap,25.43
+APT-0102,2026-03-31,Baikonur,Orken,"Turan Ave, 177",142.1,5,1,7,64.81,2005,9.9,good,apartment,unknown,agency,0.4560872624912034,first,21,very_large,cheap,28.42
+APT-0256,2026-04-02,Almaty,Grand Alatau,"Qoshqarbayev Ave, 131",63.0,2,10,16,31.27,1986,7.4,euro renovation,apartment,unknown,owner,0.4963492063492063,middle,40,medium,cheap,31.5
+APT-0242,2026-04-03,Almaty,Sat City,"Kabanbay Batyr Ave, 128",44.9,1,8,21,28.94,1990,4.2,euro renovation,apartment,loggia,owner,0.6445434298440981,middle,36,small,expensive,44.9
+APT-0367,2026-04-03,Yesil,Expo Residence,"Syganak St, 39",106.3,4,9,16,71.54,2001,2.1,rough finish,apartment,loggia,agency,0.6730009407337724,middle,25,very_large,expensive,26.58
+APT-0328,2026-04-05,Nura,Comfort Town,"Syganak St, 85",25.0,1,7,12,16.82,2000,8.6,good,apartment,unknown,owner,0.6728000000000001,middle,26,small,expensive,25.0
+APT-0170,2026-04-06,Baikonur,Samal,"Saryarka Ave, 9",85.6,4,4,5,50.0,2019,6.0,good,apartment,unknown,owner,0.5841121495327103,middle,7,large,mid,21.4
+APT-0308,2026-04-06,Saryarka,Zhana Saryarka,"Qoshqarbayev Ave, 40",41.3,1,9,24,24.42,2023,10.3,good,apartment,unknown,agency,0.5912832929782084,middle,3,small,mid,41.3
+APT-0289,2026-04-07,Almaty,Grand Alatau,"Bogenbay Batyr Ave, 72",50.9,2,14,24,29.11,1998,3.9,euro renovation,penthouse,balcony,agency,0.5719056974459725,middle,28,medium,mid,25.45
+APT-0011,2026-04-08,Saryarka,Arai,"Tauelsizdik Ave, 133",165.0,5,12,12,80.3,2004,6.2,euro renovation,apartment,unknown,owner,0.48666666666666664,last,22,very_large,cheap,33.0
+APT-0043,2026-04-10,Yesil,Nova City,"Abay Ave, 180",45.3,1,12,16,35.57,2015,5.9,good,apartment,unknown,owner,0.7852097130242827,middle,11,small,expensive,45.3
+APT-0499,2026-04-10,Yesil,Nova City,"Dostyk St, 144",63.6,1,7,16,35.84,1986,8.9,,apartment,none,developer,0.5635220125786163,middle,40,medium,mid,63.6
+APT-0461,2026-04-11,Baikonur,Keruen,"Abay Ave, 151",41.2,1,7,9,17.38,1987,4.7,designer,apartment,unknown,agency,0.4218446601941747,middle,39,small,cheap,41.2
+APT-0243,2026-04-13,Yesil,Expo Residence,"Dostyk St, 172",41.3,1,1,5,22.35,2023,5.0,euro renovation,apartment,unknown,owner,0.5411622276029057,first,3,small,mid,41.3
+APT-0297,2026-04-13,Almaty,Millennium Park,"Syganak St, 153",72.3,4,15,16,41.81,1993,7.8,,apartment,unknown,agency,0.5782849239280775,middle,33,large,mid,18.08
+APT-0165,2026-04-14,Yesil,Nova City,"Abay Ave, 51",89.3,3,5,7,62.87,1991,7.6,good,apartment,unknown,owner,0.7040313549832027,middle,35,large,expensive,29.77
+APT-0214,2026-04-15,Nura,Comfort Town,"Saryarka Ave, 134",135.5,5,11,16,58.55,1989,4.7,good,apartment,none,agency,0.4321033210332103,middle,37,very_large,cheap,27.1
+APT-0136,2026-04-17,Nura,Orynbor Towers,"Uly Dala Ave, 64",82.2,3,3,5,52.47,2014,9.4,good,apartment,unknown,owner,0.6383211678832117,middle,12,large,expensive,27.4
+APT-0283,2026-04-17,Baikonur,Samal,"Abay Ave, 118",34.0,1,9,16,17.51,2013,8.5,good,apartment,none,agency,0.515,middle,13,small,mid,34.0
+APT-0408,2026-04-19,Baikonur,,"Turan Ave, 143",165.0,5,3,21,85.72,1985,7.7,designer,apartment,unknown,owner,0.5195151515151515,middle,41,very_large,mid,33.0
+APT-0460,2026-04-21,Almaty,Sat City,"Bogenbay Batyr Ave, 25",93.1,4,5,5,46.34,1989,7.4,good,apartment,loggia,owner,0.4977443609022557,last,37,very_large,cheap,23.28
+APT-0045,2026-04-26,Baikonur,Baikonur Residence,"Syganak St, 73",45.9,1,5,16,20.46,2025,11.8,good,apartment,2 balconies,agency,0.44575163398692813,middle,1,small,cheap,45.9
+APT-0036,2026-04-27,Saryarka,Dostyk House,"Saryarka Ave, 21",41.3,1,11,24,20.02,2006,9.1,good,apartment,unknown,agency,0.4847457627118644,middle,20,small,cheap,41.3
+APT-0131,2026-04-28,Almaty,Sat City,"Kerey-Zhanibek St, 141",67.4,2,5,24,51.93,2014,6.2,euro renovation,apartment,unknown,agency,0.7704747774480711,middle,12,large,expensive,33.7
+APT-0225,2026-04-28,Baikonur,Samal,"Saryarka Ave, 25",83.9,3,17,18,19.53,2004,11.6,euro renovation,apartment,balcony,agency,0.23277711561382597,middle,22,large,cheap,27.97
+APT-0037,2026-04-30,Almaty,Millennium Park,"Uly Dala Ave, 33",69.4,1,1,5,39.01,2000,2.4,rough finish,apartment,unknown,agency,0.5621037463976944,first,26,large,mid,69.4
+APT-0403,2026-05-01,Nura,Comfort Town,"Dostyk St, 76",63.3,2,5,24,36.76,2014,7.8,cosmetic,apartment,unknown,developer,0.5807266982622433,middle,12,medium,mid,31.65
+APT-0010,2026-05-02,Almaty,Millennium Park,"Turan Ave, 169",42.9,1,1,7,32.07,2016,6.7,designer,apartment,balcony,owner,0.7475524475524475,first,10,small,expensive,42.9
+APT-0125,2026-05-03,Baikonur,,"Bogenbay Batyr Ave, 168",42.6,1,16,18,15.0,1991,10.1,cosmetic,apartment,2 balconies,agency,0.352112676056338,middle,35,small,cheap,42.6
+APT-0212,2026-05-03,Saryarka,Dostyk House,"Syganak St, 61",113.5,5,17,21,52.06,2011,10.7,euro renovation,apartment,loggia,owner,0.45867841409691634,middle,15,very_large,cheap,22.7
+APT-0462,2026-05-04,Nura,Capital Park,"Mangilik El Ave, 44",72.0,1,4,16,44.54,2012,8.3,rough finish,apartment,2 balconies,agency,0.6186111111111111,middle,14,large,mid,72.0
+APT-0229,2026-05-04,Almaty,Sat City,"Bogenbay Batyr Ave, 110",44.3,1,8,9,21.49,1990,1.9,,apartment,unknown,owner,0.4851015801354402,middle,36,small,cheap,44.3
+APT-0240,2026-05-09,Baikonur,Orken,"Dostyk St, 64",88.5,3,17,18,55.18,2018,8.5,euro renovation,apartment,unknown,agency,0.6235028248587571,middle,8,large,mid,29.5
+APT-0040,2026-05-11,Saryarka,Arai,"Syganak St, 138",58.5,1,23,24,26.12,1994,6.5,euro renovation,apartment,2 balconies,agency,0.4464957264957265,middle,32,medium,cheap,58.5
+APT-0198,2026-05-12,Nura,Comfort Town,"Tauelsizdik Ave, 140",45.4,2,11,12,29.28,2019,10.4,designer,apartment,unknown,developer,0.6449339207048459,middle,7,small,expensive,22.7
+APT-0307,2026-05-12,Baikonur,,"Saryarka Ave, 11",83.2,3,24,24,28.6,1997,4.2,good,apartment,unknown,agency,0.34375,last,29,large,cheap,27.73
+APT-0015,2026-05-13,Yesil,Expo Residence,"Turan Ave, 105",72.4,2,5,5,44.07,2008,8.8,designer,apartment,2 balconies,owner,0.6087016574585635,last,18,large,mid,36.2
+APT-0384,2026-05-14,Saryarka,Dostyk House,"Turan Ave, 5",37.1,1,10,12,18.3,1987,6.9,euro renovation,apartment,unknown,owner,0.49326145552560646,middle,39,small,cheap,37.1
+APT-0269,2026-05-14,Baikonur,Orken,"Abay Ave, 89",70.9,3,5,7,38.91,2001,7.4,designer,apartment,2 balconies,developer,0.5488011283497883,middle,25,large,mid,23.63
+APT-0009,2026-05-16,Almaty,Highvill,"Syganak St, 83",96.0,4,6,18,67.08,2019,7.7,designer,apartment,none,owner,0.69875,middle,7,very_large,expensive,24.0
+APT-0495,2026-05-16,Almaty,Millennium Park,"Bogenbay Batyr Ave, 143",35.8,1,5,5,17.91,2015,1.0,rough finish,apartment,unknown,agency,0.5002793296089386,last,11,small,cheap,35.8
+APT-0457,2026-05-18,Nura,Arena City,"Kabanbay Batyr Ave, 77",140.7,5,3,12,80.36,2009,10.2,cosmetic,studio,2 balconies,agency,0.5711442786069653,middle,17,very_large,mid,28.14
+APT-0426,2026-05-19,Saryarka,Arai,"Kerey-Zhanibek St, 43",122.4,4,15,21,68.98,2014,3.3,cosmetic,apartment,unknown,owner,0.563562091503268,middle,12,very_large,mid,30.6
+APT-0311,2026-05-19,Baikonur,Baikonur Residence,"Uly Dala Ave, 168",67.8,3,2,16,36.85,2008,6.0,euro renovation,apartment,unknown,agency,0.5435103244837759,middle,18,large,mid,22.6
+APT-0168,2026-05-19,Nura,Orynbor Towers,"Bogenbay Batyr Ave, 176",51.1,1,1,18,33.36,2016,5.1,euro renovation,apartment,unknown,agency,0.6528375733855185,first,10,medium,expensive,51.1
+APT-0235,2026-05-21,Yesil,GreenLine,"Syganak St, 172",102.7,3,11,24,72.87,2000,2.0,euro renovation,apartment,balcony,developer,0.7095423563777994,middle,26,very_large,expensive,34.23
+APT-0446,2026-05-22,Saryarka,Dostyk House,"Tauelsizdik Ave, 173",74.7,3,6,18,43.71,2021,3.9,euro renovation,apartment,none,owner,0.585140562248996,middle,5,large,mid,24.9
+APT-0041,2026-05-22,Almaty,Sat City,"Abay Ave, 8",61.9,2,15,16,41.65,2000,6.3,good,apartment,unknown,owner,0.672859450726979,middle,26,medium,expensive,30.95
+APT-0196,2026-05-24,Saryarka,Dostyk House,"Kerey-Zhanibek St, 102",137.2,4,4,18,47.31,1987,10.5,,apartment,unknown,owner,0.34482507288629743,middle,39,very_large,cheap,34.3
+APT-0454,2026-05-26,Nura,,"Kabanbay Batyr Ave, 64",91.1,3,10,12,43.84,1985,8.2,good,apartment,none,developer,0.48122941822173443,middle,41,very_large,cheap,30.37
+APT-0491,2026-05-28,Nura,Orynbor Towers,"Tauelsizdik Ave, 22",102.1,4,2,7,84.02,1999,9.2,cosmetic,apartment,balcony,agency,0.822918707149853,middle,27,very_large,expensive,25.52
+APT-0008,2026-05-28,Yesil,GreenLine,"Kerey-Zhanibek St, 68",107.0,3,11,16,75.6,1992,4.1,cosmetic,apartment,balcony,agency,0.7065420560747663,middle,34,very_large,expensive,35.67
+APT-0266,2026-05-29,Yesil,Nova City,"Turan Ave, 119",25.7,3,21,24,15.0,1994,4.6,cosmetic,apartment,unknown,owner,0.5836575875486382,middle,32,small,mid,8.57
+APT-0182,2026-05-29,Saryarka,,"Qoshqarbayev Ave, 74",135.5,5,1,7,78.2,2001,4.7,designer,apartment,2 balconies,owner,0.5771217712177122,first,25,very_large,mid,27.1
+APT-0130,2026-05-30,Almaty,Millennium Park,"Bogenbay Batyr Ave, 176",70.8,3,8,18,35.16,1988,5.7,good,apartment,loggia,agency,0.4966101694915254,middle,38,large,cheap,23.6
+APT-0449,2026-06-01,Yesil,GreenLine,"Mangilik El Ave, 65",117.0,3,12,24,99.25,2023,8.6,designer,apartment,unknown,owner,0.8482905982905983,middle,3,very_large,expensive,39.0
+APT-0019,2026-06-03,Almaty,Highvill,"Qoshqarbayev Ave, 55",90.6,2,4,5,58.2,2024,8.0,designer,apartment,unknown,owner,0.642384105960265,middle,2,very_large,expensive,45.3
+APT-0246,2026-06-05,Baikonur,Orken,"Syganak St, 124",52.3,1,8,9,15.0,2004,8.8,rough finish,apartment,balcony,agency,0.28680688336520077,middle,22,medium,cheap,52.3
+APT-0278,2026-06-05,Saryarka,,"Kabanbay Batyr Ave, 55",56.5,2,5,21,24.94,1992,9.0,good,apartment,2 balconies,agency,0.44141592920353984,middle,34,medium,cheap,28.25
+APT-0325,2026-06-05,Almaty,Sat City,"Uly Dala Ave, 98",41.1,1,9,21,19.41,2008,7.0,rough finish,apartment,unknown,developer,0.4722627737226277,middle,18,small,cheap,41.1
+APT-0261,2026-06-09,Baikonur,,"Uly Dala Ave, 106",57.1,1,18,21,24.74,2020,12.5,good,apartment,unknown,owner,0.43327495621716283,middle,6,medium,cheap,57.1
+APT-0271,2026-06-09,Saryarka,Arman,"Turan Ave, 162",44.0,2,1,21,19.69,2000,3.3,good,apartment,none,developer,0.4475,first,26,small,cheap,22.0
+APT-0012,2026-06-11,Yesil,GreenLine,"Abay Ave, 19",83.4,3,6,7,63.06,2025,2.4,rough finish,apartment,unknown,owner,0.7561151079136691,middle,1,large,expensive,27.8
+APT-0433,2026-06-13,Almaty,Millennium Park,"Mangilik El Ave, 161",51.9,2,9,21,35.27,2024,4.6,euro renovation,apartment,balcony,agency,0.6795761078998074,middle,2,medium,expensive,25.95
+APT-0223,2026-06-14,Almaty,Grand Alatau,"Uly Dala Ave, 39",65.0,2,11,16,41.99,2002,2.8,euro renovation,apartment,unknown,developer,0.646,middle,24,medium,expensive,32.5
+APT-0294,2026-06-18,Yesil,,"Abay Ave, 151",36.2,1,9,16,26.54,2023,6.5,cosmetic,apartment,unknown,owner,0.7331491712707181,middle,3,small,expensive,36.2
+APT-0391,2026-06-19,Saryarka,Arman,"Kabanbay Batyr Ave, 106",67.1,2,6,16,41.92,2025,10.6,designer,apartment,2 balconies,developer,0.6247391952309986,middle,1,medium,expensive,33.55
+APT-0298,2026-06-20,Almaty,Grand Alatau,"Mangilik El Ave, 1",95.2,4,4,7,55.11,2004,3.6,cosmetic,apartment,unknown,owner,0.5788865546218487,middle,22,very_large,mid,23.8
+APT-0466,2026-06-25,Baikonur,Orken,"Uly Dala Ave, 16",86.4,3,16,21,42.65,2017,9.3,euro renovation,apartment,unknown,owner,0.4936342592592592,middle,9,large,cheap,28.8
+APT-0400,2026-06-27,Yesil,Nova City,"Tauelsizdik Ave, 152",87.2,2,9,12,70.73,2026,4.4,good,apartment,unknown,agency,0.8111238532110092,middle,0,large,expensive,43.6
+APT-0031,2026-06-28,Yesil,,"Turan Ave, 119",87.6,3,2,24,79.17,2020,3.7,euro renovation,apartment,loggia,developer,0.9037671232876713,middle,6,large,expensive,29.2
+APT-0074,2026-06-28,Yesil,Nova City,"Bogenbay Batyr Ave, 153",103.5,4,5,9,81.1,2024,6.4,good,apartment,unknown,agency,0.783574879227053,middle,2,very_large,expensive,25.88
+APT-0300,2026-06-29,Nura,,"Saryarka Ave, 167",41.0,1,8,21,25.27,2001,4.6,euro renovation,apartment,unknown,owner,0.6163414634146341,middle,25,small,mid,41.0
+APT-0401,2026-07-03,Almaty,,"Syganak St, 42",41.1,1,2,16,25.18,1994,3.5,,apartment,loggia,owner,0.6126520681265206,middle,32,small,mid,41.1
+APT-0167,2026-07-05,Nura,Arena City,"Tauelsizdik Ave, 163",69.8,2,14,21,54.9,2023,5.1,good,apartment,balcony,agency,0.7865329512893983,middle,3,large,expensive,34.9
+APT-0257,2026-07-05,Nura,Orynbor Towers,"Kabanbay Batyr Ave, 53",66.5,2,1,5,41.39,1998,9.4,euro renovation,studio,unknown,agency,0.622406015037594,first,28,medium,mid,33.25
+APT-0056,2026-07-06,Saryarka,,"Turan Ave, 115",62.75,2,3,5,24.51,2004,9.7,good,apartment,2 balconies,owner,0.390597609561753,middle,22,medium,cheap,31.38
+APT-0034,2026-07-06,Nura,Comfort Town,"Bogenbay Batyr Ave, 108",84.3,4,5,5,67.18,2009,7.8,,apartment,unknown,agency,0.7969157769869515,last,17,large,expensive,21.08
+APT-0309,2026-07-06,Saryarka,Arman,"Abay Ave, 17",34.4,1,1,9,16.8,2024,9.9,euro renovation,apartment,unknown,owner,0.48837209302325585,first,2,small,cheap,34.4
+APT-0292,2026-07-06,Almaty,Millennium Park,"Syganak St, 148",93.2,3,4,5,53.98,1992,3.5,euro renovation,apartment,balcony,developer,0.5791845493562231,middle,34,very_large,mid,31.07
+APT-0386,2026-07-07,Baikonur,Baikonur Residence,"Syganak St, 93",110.6,5,14,18,28.65,1985,9.0,,apartment,balcony,agency,0.2590415913200723,middle,41,very_large,cheap,22.12
+APT-0425,2026-07-08,Yesil,Nova City,"Qoshqarbayev Ave, 88",71.7,3,15,24,44.54,1997,4.1,good,apartment,none,developer,0.6211994421199442,middle,29,large,mid,23.9
+APT-0485,2026-07-08,Saryarka,Arman,"Bogenbay Batyr Ave, 87",77.5,3,3,18,38.22,2024,8.3,good,apartment,none,developer,0.4931612903225806,middle,2,large,cheap,25.83
+APT-0399,2026-07-09,Yesil,Nova City,"Bogenbay Batyr Ave, 175",39.0,1,5,24,30.04,1998,5.6,euro renovation,apartment,balcony,agency,0.7702564102564102,middle,28,small,expensive,39.0
+APT-0412,2026-07-11,Almaty,Highvill,"Syganak St, 43",37.6,1,5,7,21.49,1997,6.4,cosmetic,apartment,loggia,developer,0.5715425531914893,middle,29,small,mid,37.6
+APT-0127,2026-07-11,Saryarka,Arai,"Saryarka Ave, 117",41.3,1,2,16,15.0,1985,5.4,euro renovation,apartment,unknown,developer,0.36319612590799033,middle,41,small,cheap,41.3
+APT-0206,2026-07-14,Almaty,Sat City,"Bogenbay Batyr Ave, 90",81.1,3,24,24,52.36,2011,7.8,,apartment,unknown,owner,0.6456226880394575,last,15,large,expensive,27.03
+APT-0456,2026-07-15,Baikonur,Baikonur Residence,"Kerey-Zhanibek St, 19",120.3,5,4,9,46.5,1988,11.2,,apartment,unknown,owner,0.3865336658354115,middle,38,very_large,cheap,24.06
+APT-0169,2026-07-17,Nura,,"Syganak St, 127",61.9,1,2,16,37.63,2004,5.8,cosmetic,apartment,unknown,agency,0.6079159935379645,middle,22,medium,mid,61.9
+APT-0197,2026-07-18,Almaty,,"Tauelsizdik Ave, 106",45.7,1,1,9,29.42,2024,5.3,cosmetic,apartment,unknown,owner,0.6437636761487965,first,2,small,expensive,45.7
+APT-0052,2026-07-18,Saryarka,,"Dostyk St, 103",114.9,5,4,18,59.02,1995,5.6,euro renovation,apartment,unknown,agency,0.5136640557006092,middle,31,very_large,mid,22.98
+APT-0194,2026-07-18,Nura,Orynbor Towers,"Tauelsizdik Ave, 143",42.1,1,3,5,24.45,2001,10.6,,apartment,unknown,owner,0.5807600950118764,middle,25,small,mid,42.1
+APT-0277,2026-07-20,Saryarka,Dostyk House,"Uly Dala Ave, 106",81.3,3,19,21,54.41,2008,7.9,designer,apartment,2 balconies,owner,0.6692496924969249,middle,18,large,expensive,27.1
+APT-0188,2026-07-21,Yesil,Nova City,"Abay Ave, 23",53.3,1,3,21,30.31,2014,8.1,euro renovation,apartment,2 balconies,owner,0.5686679174484053,middle,12,medium,mid,53.3
+APT-0490,2026-07-21,Yesil,GreenLine,"Abay Ave, 119",42.2,1,17,24,24.18,2017,4.7,rough finish,apartment,2 balconies,owner,0.5729857819905213,middle,9,small,mid,42.2
+APT-0475,2026-07-21,Nura,Comfort Town,"Bogenbay Batyr Ave, 103",58.0,2,1,9,39.75,2025,11.8,euro renovation,apartment,unknown,agency,0.6853448275862069,first,1,medium,expensive,29.0
+APT-0152,2026-07-21,Almaty,Sat City,"Uly Dala Ave, 92",65.7,3,1,18,47.48,2025,2.9,designer,apartment,unknown,agency,0.7226788432267883,first,1,medium,expensive,21.9
+APT-0329,2026-07-25,Baikonur,Samal,"Abay Ave, 18",84.6,3,7,9,33.29,1994,9.9,good,apartment,unknown,owner,0.3934988179669031,middle,32,large,cheap,28.2
+APT-0161,2026-07-26,Almaty,Millennium Park,"Qoshqarbayev Ave, 133",30.3,1,11,21,15.43,2012,4.300000000000001,,apartment,balcony,agency,0.5092409240924092,middle,14,small,mid,30.3
+APT-0351,2026-07-28,Nura,Capital Park,"Mangilik El Ave, 160",65.0,2,15,18,38.94,1992,6.2,cosmetic,apartment,unknown,owner,0.5990769230769231,middle,34,medium,mid,32.5
+APT-0046,2026-07-31,Yesil,GreenLine,"Turan Ave, 39",65.4,2,4,7,50.71,2016,2.5,euro renovation,apartment,loggia,owner,0.7753822629969418,middle,10,medium,expensive,32.7
+APT-0158,2026-08-01,Saryarka,Dostyk House,"Abay Ave, 30",127.1,5,19,24,67.77,2000,5.6,cosmetic,apartment,balcony,agency,0.5332022029897718,middle,26,very_large,mid,25.42
+APT-0035,2026-08-01,Saryarka,,"Bogenbay Batyr Ave, 152",32.7,1,6,21,19.88,2014,10.4,designer,apartment,none,owner,0.6079510703363914,middle,12,small,mid,32.7
+APT-0346,2026-08-02,Saryarka,,"Qoshqarbayev Ave, 77",95.4,4,18,24,45.0,2006,6.7,euro renovation,apartment,loggia,agency,0.4716981132075471,middle,20,very_large,cheap,23.85
+APT-0063,2026-08-03,Saryarka,Dostyk House,"Saryarka Ave, 3",121.8,4,10,18,71.79,2003,3.2,euro renovation,apartment,none,developer,0.589408866995074,middle,23,very_large,mid,30.45
+APT-0191,2026-08-05,Baikonur,Orken,"Kabanbay Batyr Ave, 152",73.3,2,5,7,27.07,1991,8.5,euro renovation,studio,unknown,agency,0.3693042291950887,middle,35,large,cheap,36.65
+APT-0218,2026-08-06,Saryarka,Dostyk House,"Turan Ave, 135",83.9,3,5,5,33.98,1995,3.5,euro renovation,apartment,unknown,owner,0.4050059594755661,last,31,large,cheap,27.97
+APT-0363,2026-08-14,Saryarka,Arai,"Bogenbay Batyr Ave, 140",63.2,2,5,5,31.32,2016,9.8,cosmetic,apartment,unknown,owner,0.49556962025316453,last,10,medium,cheap,31.6
+APT-0028,2026-08-17,Nura,Comfort Town,"Uly Dala Ave, 111",62.75,2,5,9,41.42,2010,8.4,rough finish,apartment,unknown,agency,0.6600796812749005,middle,16,medium,expensive,31.38
+APT-0410,2026-08-19,Almaty,Highvill,"Syganak St, 93",39.7,2,1,12,20.62,1992,6.4,good,apartment,2 balconies,agency,0.5193954659949622,first,34,small,mid,19.85
+APT-0316,2026-08-20,Almaty,Millennium Park,"Saryarka Ave, 94",138.8,5,5,16,89.09,1991,1.3,good,apartment,unknown,owner,0.6418587896253602,middle,35,very_large,expensive,27.76
+APT-0089,2026-08-20,Baikonur,Samal,"Abay Ave, 21",34.6,1,4,18,15.0,2020,10.1,cosmetic,apartment,unknown,developer,0.43352601156069365,middle,6,small,cheap,34.6
+APT-0119,2026-08-21,Baikonur,Samal,"Kerey-Zhanibek St, 14",83.8,2,5,5,37.66,2015,6.4,euro renovation,apartment,2 balconies,owner,0.4494033412887828,last,11,large,cheap,41.9
+APT-0224,2026-08-21,Baikonur,,"Kerey-Zhanibek St, 10",57.7,2,4,5,26.67,2003,6.3,good,apartment,unknown,owner,0.4622183708838822,middle,23,medium,cheap,28.85
+APT-0389,2026-08-23,Almaty,Millennium Park,"Kabanbay Batyr Ave, 121",48.6,1,12,12,28.74,2011,7.1,good,apartment,unknown,owner,0.591358024691358,last,15,small,mid,48.6
+APT-0108,2026-08-25,Saryarka,Arai,"Turan Ave, 142",62.75,2,2,7,22.35,2005,6.9,good,apartment,unknown,agency,0.3561752988047809,middle,21,medium,cheap,31.38
+APT-0141,2026-08-25,Saryarka,Zhana Saryarka,"Kabanbay Batyr Ave, 49",132.2,4,1,12,74.93,2002,6.0,euro renovation,apartment,balcony,agency,0.5667927382753405,first,24,very_large,mid,33.05
+APT-0356,2026-08-29,Almaty,Grand Alatau,"Uly Dala Ave, 178",49.3,2,9,12,26.72,1995,7.8,,apartment,unknown,agency,0.5419878296146045,middle,31,small,mid,24.65
+APT-0427,2026-08-29,Saryarka,Dostyk House,"Saryarka Ave, 127",83.9,3,16,24,30.02,2020,9.8,good,apartment,2 balconies,agency,0.3578069129916567,middle,6,large,cheap,27.97
+APT-0388,2026-08-30,Saryarka,Arman,"Kerey-Zhanibek St, 114",40.4,1,3,9,15.0,1986,6.9,rough finish,apartment,unknown,owner,0.3712871287128713,middle,40,small,cheap,40.4
+APT-0200,2026-08-30,Baikonur,Samal,"Turan Ave, 61",113.3,4,10,12,55.21,2009,7.2,euro renovation,apartment,loggia,agency,0.48729037952338927,middle,17,very_large,cheap,28.32
+APT-0444,2026-08-31,Almaty,Millennium Park,"Saryarka Ave, 45",91.3,3,7,9,65.03,2005,4.2,designer,apartment,loggia,agency,0.7122672508214677,middle,21,very_large,expensive,30.43
+APT-0382,2026-09-02,Nura,Capital Park,"Kabanbay Batyr Ave, 128",106.5,3,4,7,70.24,2024,5.4,good,apartment,unknown,owner,0.6595305164319248,middle,2,very_large,expensive,35.5
+APT-0017,2026-09-02,Baikonur,Baikonur Residence,"Turan Ave, 18",40.5,1,17,24,24.19,2018,5.4,designer,apartment,none,agency,0.597283950617284,middle,8,small,mid,40.5
+APT-0007,2026-09-03,Nura,,"Bogenbay Batyr Ave, 98",64.7,2,2,7,49.38,2025,5.3,euro renovation,penthouse,2 balconies,agency,0.7632148377125193,middle,1,medium,expensive,32.35
+APT-0055,2026-09-06,Nura,Arena City,"Bogenbay Batyr Ave, 49",57.5,2,14,16,29.14,2015,11.8,cosmetic,apartment,balcony,developer,0.5067826086956522,middle,11,medium,mid,28.75
+APT-0498,2026-09-10,Baikonur,Samal,"Dostyk St, 145",49.4,1,4,21,24.11,2002,9.1,good,apartment,balcony,owner,0.4880566801619433,middle,24,small,cheap,49.4
+APT-0157,2026-09-10,Saryarka,Arman,"Saryarka Ave, 83",42.6,2,15,18,19.01,2006,6.4,euro renovation,apartment,unknown,agency,0.4462441314553991,middle,20,small,cheap,21.3
+APT-0424,2026-09-12,Almaty,Highvill,"Turan Ave, 98",65.0,2,1,5,40.75,1988,6.8,good,apartment,loggia,owner,0.6269230769230769,first,38,medium,expensive,32.5
+APT-0342,2026-09-12,Baikonur,Baikonur Residence,"Tauelsizdik Ave, 177",63.4,2,1,5,33.14,2021,10.6,euro renovation,apartment,unknown,owner,0.5227129337539432,first,5,medium,mid,31.7
+APT-0110,2026-09-12,Baikonur,Samal,"Turan Ave, 169",47.3,2,5,7,26.55,2026,5.5,designer,apartment,unknown,agency,0.5613107822410148,middle,0,small,mid,23.65
+APT-0331,2026-09-12,Baikonur,Orken,"Turan Ave, 129",64.6,3,4,12,23.4,1986,7.2,euro renovation,apartment,unknown,agency,0.3622291021671827,middle,40,medium,cheap,21.53
+APT-0484,2026-09-13,Saryarka,Arai,"Bogenbay Batyr Ave, 122",41.3,1,4,5,18.07,2015,7.6,good,apartment,balcony,agency,0.4375302663438257,middle,11,small,cheap,41.3
+APT-0103,2026-09-15,Almaty,Millennium Park,"Mangilik El Ave, 37",61.0,3,1,5,42.79,2025,3.8,good,apartment,unknown,owner,0.7014754098360656,first,1,medium,expensive,20.33
+APT-0288,2026-09-20,Nura,Capital Park,"Abay Ave, 93",73.3,2,1,18,41.8,1985,9.4,good,apartment,unknown,owner,0.5702592087312415,first,41,large,mid,36.65
+APT-0203,2026-09-21,Saryarka,Arman,"Kerey-Zhanibek St, 144",74.7,3,7,9,43.14,2025,10.7,euro renovation,apartment,unknown,owner,0.5775100401606426,middle,1,large,mid,24.9
+APT-0255,2026-09-21,Nura,Orynbor Towers,"Uly Dala Ave, 165",75.5,3,18,24,62.03,2026,4.1,euro renovation,apartment,unknown,developer,0.82158940397351,middle,0,large,expensive,25.17
+APT-0164,2026-09-21,Baikonur,Orken,"Bogenbay Batyr Ave, 8",50.2,1,8,24,22.23,2010,9.7,cosmetic,apartment,balcony,agency,0.4428286852589641,middle,16,medium,cheap,50.2
+APT-0166,2026-09-22,Baikonur,Samal,"Dostyk St, 77",127.3,5,19,21,62.92,1992,7.1,euro renovation,apartment,none,agency,0.4942655145326002,middle,34,very_large,cheap,25.46
+APT-0124,2026-09-23,Almaty,Grand Alatau,"Turan Ave, 28",91.4,4,4,12,53.9,2019,2.9,good,apartment,balcony,owner,0.5897155361050328,middle,7,very_large,mid,22.85
